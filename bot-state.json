@@ -1,5 +1,5 @@
 {
-    "last_update": 1623687884,
+    "last_update": 1623689083,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -7,6 +7,10 @@
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "hash": "12e8e7f608bbd04e26b9b4e8bfb05bea173d1d725cc0f196cd602ed5",
+            "sent": true
+        },
+        "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
+            "hash": "cbf99f8997c42ecdc98cf567f6a877cd87045fb9f12a006bfa8725e8",
             "sent": true
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
@@ -55,6 +59,22 @@
             "start": 1623607200,
             "state": "active",
             "title": "Buy Super Yeti from Ben and Jacob"
+        },
+        "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Add MJ to the Operations Team as an amendment to proposal \"Create teams within the DAO to specialize in the following areas:\" which passed Jun 13, 2021, 10:00 AM",
+            "choices": [
+                "Yes",
+                "No way that dude is trouble"
+            ],
+            "created": 1623688334,
+            "end": 1623861300,
+            "id": "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA",
+            "snapshot": "12633633",
+            "start": 1623688500,
+            "state": "active",
+            "title": "Add MJ to Operations teams"
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
             "__typename": "Proposal",
