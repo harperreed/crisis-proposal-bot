@@ -1,0 +1,108 @@
+{
+    "last_update": 1623639547,
+    "notifications": {
+        "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
+            "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
+            "sent": true
+        },
+        "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
+            "hash": "12e8e7f608bbd04e26b9b4e8bfb05bea173d1d725cc0f196cd602ed5",
+            "sent": true
+        },
+        "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
+            "hash": "1e3906039501c43dbb02f562e121f2d829fe0239446aadf079dc62a7",
+            "sent": true
+        },
+        "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
+            "hash": "2cdb4f361d8a5c3bec1a1f02d339248a466af760a7518e0fc7acb01b",
+            "sent": true
+        },
+        "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
+            "hash": "dcaecdff911701d7685bf187883620807dfb1c3bf4e719160b63972c",
+            "sent": true
+        }
+    },
+    "proposals": {
+        "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "I screwed up the last proposal and only made one option, so this is the second option that I should have included in the other one. \n\nIf the proposal passes and we agree to spend 1 ETH on 10 SuperYetis, should we double that and get 20 Yetis instead for 2 ETH. Again selling 5-10 in near term to get back investment and holding the rest for phat gainz later.",
+            "choices": [
+                "No, stay with just 1ETH/10 Yetis",
+                "Yes, lets do 2ETH/20 Yetis"
+            ],
+            "created": 1623430161,
+            "end": 1623448800,
+            "id": "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg",
+            "snapshot": "12614401",
+            "start": 1623423600,
+            "state": "closed",
+            "title": "Super Yeti Super Size It."
+        },
+        "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
+            "__typename": "Proposal",
+            "author": "0xECaA643997033B1bA605D32748cfE9bdAd141880",
+            "body": "Should the CrisisDAO reimburse Ben and Jacob for the 13 Super Yeti NFT's they purchased once they have been transferred to the DAO wallet?",
+            "choices": [
+                "Yes, pay 0.1 eth per yeti.",
+                "Yes, pay 0.1 eth + gas per yeti.",
+                "No, pay them nothing."
+            ],
+            "created": 1623635131,
+            "end": 1623780000,
+            "id": "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A",
+            "snapshot": "12629725",
+            "start": 1623607200,
+            "state": "active",
+            "title": "Buy Super Yeti from Ben and Jacob"
+        },
+        "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
+            "__typename": "Proposal",
+            "author": "0x961Aa96FebeE5465149a0787B03bFa14D8e9033F",
+            "body": "## Background\nThere is a lot of volume in our DAO's discords right now, and it's difficult to keep track of action items.\n\n## Proposal\n\nCreate a channel where only action items for the DAO members are posted, such as proposals to vote on. Replies and additional commentary is discouraged in this channel.\n",
+            "choices": [
+                "Yes",
+                "No"
+            ],
+            "created": 1623436614,
+            "end": 1623513600,
+            "id": "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq",
+            "snapshot": "12614871",
+            "start": 1623340800,
+            "state": "closed",
+            "title": "Create an action item announcement channel"
+        },
+        "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
+            "__typename": "Proposal",
+            "author": "0xE7e84204B7e180454e5C40d0e04D346214a83f85",
+            "body": "We have a lot of ideas around the **CrisisDao**, what it should be, and how it should spend the treasury. There are a lot of questions and some good answers. Luckily, we have teams, and an effort to define the **CrisisDao** via a charter. \n\n**I propose that we don\u2019t make any funds withdraws from the treasury until we have a charter that has passed by proposal.**\n\n---\n\nA charter will help us define what we want to the **CrisisDao** to be. It will also define how we wan tot use funds and hopefully make future proposals much easier and much cleaner. \n\nWe have talked about a lot of ideas and potential paths. Let\u2019s codify them, design the charter and then be able to act fast and accurately based on what we want the **CrisisDao** to do. ",
+            "choices": [
+                "Yes!",
+                "No!"
+            ],
+            "created": 1623513701,
+            "end": 1623610800,
+            "id": "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE",
+            "snapshot": "12620570",
+            "start": 1623513600,
+            "state": "closed",
+            "title": " No funds draw until charter is complete"
+        },
+        "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "If the following proposal: \"Create teams within the DAO to specialize in the following areas: #QmXo76k\" passes, then add member WhatAsherThinks to the SECURITY and MEMBERSHIP teams.",
+            "choices": [
+                "YES",
+                "NO"
+            ],
+            "created": 1623431781,
+            "end": 1623604500,
+            "id": "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T",
+            "snapshot": "12614525",
+            "start": 1623431700,
+            "state": "closed",
+            "title": "Add WhatAsherThinks to two teams"
+        }
+    }
+}
