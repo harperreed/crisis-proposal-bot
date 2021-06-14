@@ -1,5 +1,5 @@
 {
-    "last_update": 1623039547,
+    "last_update": 1623639642,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -7,7 +7,7 @@
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "hash": "12e8e7f608bbd04e26b9b4e8bfb05bea173d1d725cc0f196cd602ed5",
-            "sent": false
+            "sent": true
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
             "hash": "1e3906039501c43dbb02f562e121f2d829fe0239446aadf079dc62a7",
