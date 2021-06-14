@@ -3,8 +3,7 @@ from gql.transport.aiohttp import AIOHTTPTransport
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import os
-from web3 import Web3
-from ens import ENS
+
 import json
 import time
 import hashlib
