@@ -1,12 +1,12 @@
 {
-    "last_update": 1623779982,
+    "last_update": 1623780642,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
-            "hash": "12e8e7f608bbd04e26b9b4e8bfb05bea173d1d725cc0f196cd602ed5",
+            "hash": "de7dff78565b7683480bd88db01b9116247b1dac2716337792cbed90",
             "sent": true
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
@@ -57,7 +57,7 @@
             "id": "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A",
             "snapshot": "12629725",
             "start": 1623607200,
-            "state": "active",
+            "state": "closed",
             "title": "Buy Super Yeti from Ben and Jacob"
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
