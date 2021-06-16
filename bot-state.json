@@ -1,5 +1,5 @@
 {
-    "last_update": 1623860967,
+    "last_update": 1623862232,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -10,7 +10,7 @@
             "sent": true
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
-            "hash": "cbf99f8997c42ecdc98cf567f6a877cd87045fb9f12a006bfa8725e8",
+            "hash": "ea7fa065374340c6b52caf97228723b1bcaa02c41ea0bef01ec54001",
             "sent": true
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
@@ -73,7 +73,7 @@
             "id": "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA",
             "snapshot": "12633633",
             "start": 1623688500,
-            "state": "active",
+            "state": "closed",
             "title": "Add MJ to Operations teams"
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
