@@ -117,24 +117,27 @@ def grab_proposal_votes(proposal):
 def send_webhook(proposal):
   webhook_url = os.environ['DISCORD_WEBHOOK_URL']
   webhook = DiscordWebhook(url=webhook_url)
+  
   # infura_app_id = os.environ['INFURA_APP_ID']
   # infura_url = "https://mainnet.infura.io/v3/" +infura_app_id
 
   # ens = ENS(Web3.HTTPProvider(infura_url))
 
   title = proposal['state'].upper() + ": " + proposal['title']
+  
 
   # create embed object for webhook
-  embed = DiscordEmbed(title=title, description=proposal['body'], color='03b2f8')
+  embed = DiscordEmbed(title=title, description=proposal['body'][:500], color='03b2f8')
 
   author = proposal['author']
   author_url = "https://art.pizza/" + author
-  author_avatar_url = "https://avatar-party.web.app/a/" + author + ".png"
+  author_avatar_url = "https://effigy.im/a/" + author + ".png"
   # domain = ens.name(proposal['author'])
   
   # print(domain)
   # if domain:
   #   author = domain
+  
   embed.set_url("https://vote.crisis.network/#/crisisdao.eth/proposal/" + proposal['id'])
   embed.set_author(name=author, url=author_url, icon_url=author_avatar_url)
   embed.set_footer(text='CrisisDao Snapshot Bot')
@@ -153,12 +156,18 @@ def send_webhook(proposal):
   embed.add_embed_field(name='Start', value=start_date)
   embed.add_embed_field(name='End', value=end_date)
 
-  
 
   webhook.add_embed(embed)
 
-  response = webhook.execute()
-  print(response)
+  
+  try:
+    response = webhook.execute(remove_embeds=True, remove_files=True)
+    return True
+  except:
+    return False
+  
+  
+  # return response
 
 # result = grab_proposals("crisisdao.eth", 2, "all")
 
@@ -198,7 +207,7 @@ if ((int(time.time()-last_update))>300):
   for n in bot_state['notifications']:
     
     if (bot_state['notifications'][n]['sent'] == False):
-      send_webhook( bot_state['proposals'][n])
+      notification = send_webhook( bot_state['proposals'][n])
       bot_state['notifications'][n]['sent'] = True
   bot_state['last_update'] = int(time.time())
   save_state(bot_state)
