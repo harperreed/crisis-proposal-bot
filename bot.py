@@ -158,6 +158,7 @@ def send_webhook(proposal):
   webhook.add_embed(embed)
 
   response = webhook.execute()
+  print(response)
 
 # result = grab_proposals("crisisdao.eth", 2, "all")
 
