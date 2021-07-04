@@ -1,5 +1,5 @@
 {
-    "last_update": 1625359654,
+    "last_update": 1625361381,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -10,7 +10,7 @@
             "sent": true
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
-            "hash": "41cd60ee3c1cbfbd0483d9d3c2dd7afd4cfba4a0e5771196a7aa8dc3",
+            "hash": "c3fd57879d61e18456a01ffb3ce32f3558944604b02f8d00c6988805",
             "sent": true
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
@@ -77,7 +77,7 @@
             "id": "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24",
             "snapshot": "12748609",
             "start": 1625234400,
-            "state": "active",
+            "state": "closed",
             "title": "Crisis DAO Charter"
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
