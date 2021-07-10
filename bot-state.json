@@ -1,8 +1,12 @@
 {
-    "last_update": 1625943524,
+    "last_update": 1625944090,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
+            "sent": true
+        },
+        "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi": {
+            "hash": "92e12a0d6504a678c2e11c5a4782c5685fa03ced466a8dc6d4f6bd45",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
@@ -46,6 +50,22 @@
             "start": 1623423600,
             "state": "closed",
             "title": "Super Yeti Super Size It."
+        },
+        "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "This is a fast buy proposal and can be executed as soon as we have majority votes:\n\nSpent up to 1.5 ETH on the lowest priced Punk Cats:\nhttps://opensea.io/collection/punkcats\nand spend up to 1.5 ETH on higher priced ones.\n\nThe DAO will send 3 ETH to a wallet managed by a DAO member to buy the Punk Cats.\n\n3 ETH includes the transaction fees on OpenSea.\n",
+            "choices": [
+                "Yes. Buy buy buy!",
+                "Nah. Pass."
+            ],
+            "created": 1625943791,
+            "end": 1626116400,
+            "id": "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi",
+            "snapshot": "12801372",
+            "start": 1625943600,
+            "state": "active",
+            "title": "FAST BUY: 3 ETH worth of Punk Cats"
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "__typename": "Proposal",
