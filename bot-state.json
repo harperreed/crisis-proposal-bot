@@ -1,5 +1,5 @@
 {
-    "last_update": 1626072993,
+    "last_update": 1626073562,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -17,6 +17,10 @@
             "hash": "c3fd57879d61e18456a01ffb3ce32f3558944604b02f8d00c6988805",
             "sent": true
         },
+        "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
+            "hash": "a21437094ada4acfe929beda4c2fab2698b984ec088256db895febe8",
+            "sent": true
+        },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
             "hash": "ea7fa065374340c6b52caf97228723b1bcaa02c41ea0bef01ec54001",
             "sent": true
@@ -27,6 +31,10 @@
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
             "hash": "2cdb4f361d8a5c3bec1a1f02d339248a466af760a7518e0fc7acb01b",
+            "sent": true
+        },
+        "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
+            "hash": "94d5682820a7ce7190864d87c0a0d8d1d361243828ccc4d53d87ca78",
             "sent": true
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
@@ -100,6 +108,22 @@
             "state": "closed",
             "title": "Crisis DAO Charter"
         },
+        "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "Steps:\n1. Prospective member must be a user in the Crisis DAO Discord.\n2. A current DAO member must nominate them.\n3. The Membership Team will onboard them (if needed), including making sure the new member sends in their ETH (0.5 min to 3 max) via Airswap or equiv.",
+            "choices": [
+                "Yes. Let's grow the membership.",
+                "No. We're not ready to grow."
+            ],
+            "created": 1626073183,
+            "end": 1626246060,
+            "id": "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi",
+            "snapshot": "12810977",
+            "start": 1626073260,
+            "state": "active",
+            "title": "Accept New Members into DAO"
+        },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
             "__typename": "Proposal",
             "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
@@ -147,6 +171,22 @@
             "start": 1623513600,
             "state": "closed",
             "title": " No funds draw until charter is complete"
+        },
+        "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "Any member who owns less than 3 million $CRISIS can buy up to the max via Airswap. (The hard cap of 3 million $CRISIS stays in place.)\n\nIf you are interesting in buying more, please contact someone on the Membership Team.",
+            "choices": [
+                "Yes. Let the people buy $CRISIS",
+                "No."
+            ],
+            "created": 1626073415,
+            "end": 1626246060,
+            "id": "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF",
+            "snapshot": "12811002",
+            "start": 1626073260,
+            "state": "active",
+            "title": "Let current members buy up to 3 million $CRISIS"
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
             "__typename": "Proposal",
