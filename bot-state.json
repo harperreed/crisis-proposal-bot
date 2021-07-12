@@ -1,12 +1,12 @@
 {
-    "last_update": 1626116214,
+    "last_update": 1626116772,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
             "sent": true
         },
         "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi": {
-            "hash": "92e12a0d6504a678c2e11c5a4782c5685fa03ced466a8dc6d4f6bd45",
+            "hash": "9386e5c4208337b9c5ffe6b22647201060bde6a329c2a389d58c2ba9",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
@@ -72,7 +72,7 @@
             "id": "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi",
             "snapshot": "12801372",
             "start": 1625943600,
-            "state": "active",
+            "state": "closed",
             "title": "FAST BUY: 3 ETH worth of Punk Cats"
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
