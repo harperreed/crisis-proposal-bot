@@ -1,5 +1,5 @@
 {
-    "last_update": 1626135086,
+    "last_update": 1626136099,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -23,6 +23,10 @@
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
             "hash": "ea7fa065374340c6b52caf97228723b1bcaa02c41ea0bef01ec54001",
+            "sent": true
+        },
+        "QmXWT8nZbKfTcczxQJg3GEizbV1R9JcaUjHNWGApwznWES": {
+            "hash": "07a542ff3d675901221393eede8dd12b351533c995b9265b3a507f03",
             "sent": true
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
@@ -139,6 +143,22 @@
             "start": 1623688500,
             "state": "closed",
             "title": "Add MJ to Operations teams"
+        },
+        "QmXWT8nZbKfTcczxQJg3GEizbV1R9JcaUjHNWGApwznWES": {
+            "__typename": "Proposal",
+            "author": "0x961Aa96FebeE5465149a0787B03bFa14D8e9033F",
+            "body": "Create a Gnosis multisig wallet to hold some subset of funds with a lower barrier to spending, so that we can capitalize on more urgent opportunities.\n\n## Actions\n\n1. Create a separate multisig wallet with 2 of N signatures required. N is the number of addresses in the relevant committees:\n   **Scouting committee and Security committee members are included.**\n3. Transfer a subset of CrisisDAO funds to the FOMOFund multisig:\n   **Start with 5 ETH.** (Reups will be done through additional proposals.)\n\n## Process\n\nTwo people agree that some opportunity is FOMO-worthy, then one of the following scenarios takes place:\n\n1. Execute a multisig purchase directly from the FOMOFund.\n2. One person buys it with their own money and gets reimbursed from the FOMOFund.\n3. Funds are sent to a designated purchaser who makes the buy and transfers the assets to the CrisisDAO.\n\nNo snapshot voting is required to execute a FOMO purchase. An informal seconding (+1 or \ud83d\udc4d) from a relevant committee member on Discord is sufficient.",
+            "choices": [
+                "Yes.",
+                "No."
+            ],
+            "created": 1626135238,
+            "end": 1626332400,
+            "id": "QmXWT8nZbKfTcczxQJg3GEizbV1R9JcaUjHNWGApwznWES",
+            "snapshot": "12815562",
+            "start": 1626073200,
+            "state": "active",
+            "title": "Create FOMOFund Multisig"
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
             "__typename": "Proposal",
