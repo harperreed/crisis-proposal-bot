@@ -1,5 +1,5 @@
 {
-    "last_update": 1626198273,
+    "last_update": 1626198769,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -15,6 +15,10 @@
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
             "hash": "c3fd57879d61e18456a01ffb3ce32f3558944604b02f8d00c6988805",
+            "sent": true
+        },
+        "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
+            "hash": "787a6a00ccc31f706b832ec045a1425b9e018c3d45b48d02acc41dc2",
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -111,6 +115,22 @@
             "start": 1625234400,
             "state": "closed",
             "title": "Crisis DAO Charter"
+        },
+        "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
+            "__typename": "Proposal",
+            "author": "0xBd277d616F747eC7a2bDC6CcE9d8fb69d5372453",
+            "body": "Make all current DAO related channels in the Crisis Discord private for non $CRISIS holders.\n\nCreate public DAO channels for discussions with Crisis Network members who are not members if needed. ",
+            "choices": [
+                "Make it private",
+                "Keep it public"
+            ],
+            "created": 1626198557,
+            "end": 1626476400,
+            "id": "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j",
+            "snapshot": "12820192",
+            "start": 1626162420,
+            "state": "active",
+            "title": "Make DAO channels private"
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
             "__typename": "Proposal",
