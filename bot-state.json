@@ -1,5 +1,5 @@
 {
-    "last_update": 1626245869,
+    "last_update": 1626246498,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -22,7 +22,7 @@
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
-            "hash": "a21437094ada4acfe929beda4c2fab2698b984ec088256db895febe8",
+            "hash": "76df78c4495a0051358fdf1ded16269f56a45db637d6678a4ae84dc2",
             "sent": true
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
@@ -42,7 +42,7 @@
             "sent": true
         },
         "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
-            "hash": "94d5682820a7ce7190864d87c0a0d8d1d361243828ccc4d53d87ca78",
+            "hash": "f8777525b2740875c459b085e58cce0dc764b67f50517590134bade6",
             "sent": true
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
@@ -145,7 +145,7 @@
             "id": "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi",
             "snapshot": "12810977",
             "start": 1626073260,
-            "state": "active",
+            "state": "closed",
             "title": "Accept New Members into DAO"
         },
         "QmWWv6WckszYcnizPTQptrorAWJjrz9W8KdK1AJcCHCzTA": {
@@ -225,7 +225,7 @@
             "id": "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF",
             "snapshot": "12811002",
             "start": 1626073260,
-            "state": "active",
+            "state": "closed",
             "title": "Let current members buy up to 3 million $CRISIS"
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
