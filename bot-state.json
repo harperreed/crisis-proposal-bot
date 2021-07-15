@@ -1,5 +1,5 @@
 {
-    "last_update": 1626332092,
+    "last_update": 1626332628,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -30,7 +30,7 @@
             "sent": true
         },
         "QmXWT8nZbKfTcczxQJg3GEizbV1R9JcaUjHNWGApwznWES": {
-            "hash": "07a542ff3d675901221393eede8dd12b351533c995b9265b3a507f03",
+            "hash": "cbe6c0b6c2d14d0a7663a9d2d1f89316056167014934c3655f1825b6",
             "sent": true
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
@@ -177,7 +177,7 @@
             "id": "QmXWT8nZbKfTcczxQJg3GEizbV1R9JcaUjHNWGApwznWES",
             "snapshot": "12815562",
             "start": 1626073200,
-            "state": "active",
+            "state": "closed",
             "title": "Create FOMOFund Multisig"
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
