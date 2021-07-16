@@ -1,5 +1,5 @@
 {
-    "last_update": 1626475912,
+    "last_update": 1626476413,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -18,7 +18,7 @@
             "sent": true
         },
         "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
-            "hash": "787a6a00ccc31f706b832ec045a1425b9e018c3d45b48d02acc41dc2",
+            "hash": "24b1008f7d94b9bf93f94d6651443422c61da04d99e362d9d13d34ca",
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -129,7 +129,7 @@
             "id": "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j",
             "snapshot": "12820192",
             "start": 1626162420,
-            "state": "active",
+            "state": "closed",
             "title": "Make DAO channels private"
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
