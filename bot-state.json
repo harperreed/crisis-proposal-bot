@@ -1,6 +1,10 @@
 {
-    "last_update": 1626734863,
+    "last_update": 1626735353,
     "notifications": {
+        "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
+            "hash": "a00bd9bfc9fb5082a1e1bf173ab43fe7b08bb7e57997499a6e1574eb",
+            "sent": true
+        },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
             "sent": true
@@ -55,6 +59,22 @@
         }
     },
     "proposals": {
+        "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "Deebies are a hand drawn Avatar project which will be revealed next week. Before the reveal they are available to \"adopt\" for 0.1 ETH each, so we could get 10 for 1 ETH.\n\nProject info:\nhttps://www.niftycastle.io/\n\nEach single NFT is actually 3 images, as each one comes with a winking & x-ray variant version. Full derivative rights are included with the purchase.\n\nThe team are known individuals who have been active in the community, the artist is Sketch Nate who is actively part of the team, as well as a known NFT artist in his own right. There are only 3050 of these being made, in part because of the extreme amount of manual labor that went into drawing them all by hand. \n\nBecause these are being minted on their own website we should be able to buy them with the current multisig without issue, or we'll learn that there's an issue that we current don't know about.\n\nAs this is pre-reveal these are blind boxes, however since the artist is well known and the sample art shown already is good I think it's a safe bet that the unveiled Deebies will look excellent and I anticipate demand for them to rise quickly once they are revealed and people see all the variants that are included.",
+            "choices": [
+                "Yes, buy them!",
+                "No, let's wait."
+            ],
+            "created": 1626735079,
+            "end": 1626894000,
+            "id": "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu",
+            "snapshot": "12859762",
+            "start": 1626721200,
+            "state": "active",
+            "title": "Purchase 10 Deebies for 1 ETH (+gas)"
+        },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "__typename": "Proposal",
             "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
