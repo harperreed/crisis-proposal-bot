@@ -1,5 +1,5 @@
 {
-    "last_update": 1626728238,
+    "last_update": 1626728825,
     "notifications": {
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "hash": "051f0e22968d158a2066c751d915030b644a3981dffa845ce01b3439",
@@ -19,6 +19,10 @@
         },
         "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
             "hash": "24b1008f7d94b9bf93f94d6651443422c61da04d99e362d9d13d34ca",
+            "sent": true
+        },
+        "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
+            "hash": "2264ee4bec4e6666d37cf6d6231765b0e90a8978c8778879876a4b90",
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -131,6 +135,22 @@
             "start": 1626162420,
             "state": "closed",
             "title": "Make DAO channels private"
+        },
+        "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "The DAO would purchase a low floor Ape, Cool Cat, or something of similar style/value with high derivative potential. We will then commission the development of 10-100 derivative 1:1 utility NFTs that would allow owning one of these NFTs to give license to use any of the raw assets/IP of the NFTs in the Crisis vault. \n\nOpen questions if the proposal passes:\n\n1) Would the artist be a DAO member or an external party?\n2) How would we pay the commission (directly, fractionally, or downstream revenue share)?\n3) What are the legal questions around derivatives and access to IP?\n\nClosed questions to be accepted by the passage of the proposal:\n\n1) Owner of derivative NFT would have access to CrisisDAO's NFT\u2019s raw assets\n2) Total spent on source NFT(s) would be 3-5 ETH\n3) DAO would HODL source NFT through at least the end of the epoch\n\n\n",
+            "choices": [
+                "YES! THIS IS GENIUS!",
+                "No. Please put down the NFTPipe"
+            ],
+            "created": 1626728264,
+            "end": 1627023600,
+            "id": "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv",
+            "snapshot": "12835400",
+            "start": 1626728400,
+            "state": "active",
+            "title": "Create Derivative Works of CrisisDAO NFT"
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
             "__typename": "Proposal",
