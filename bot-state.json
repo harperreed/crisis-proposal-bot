@@ -1,8 +1,8 @@
 {
-    "last_update": 1626893792,
+    "last_update": 1626894377,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
-            "hash": "a00bd9bfc9fb5082a1e1bf173ab43fe7b08bb7e57997499a6e1574eb",
+            "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
             "sent": true
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
@@ -72,7 +72,7 @@
             "id": "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu",
             "snapshot": "12859762",
             "start": 1626721200,
-            "state": "active",
+            "state": "closed",
             "title": "Purchase 10 Deebies for 1 ETH (+gas)"
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
