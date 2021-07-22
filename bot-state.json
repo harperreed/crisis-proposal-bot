@@ -1,8 +1,12 @@
 {
-    "last_update": 1626950436,
+    "last_update": 1626950929,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
+            "sent": true
+        },
+        "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
+            "hash": "6137f12f7997b5c9c3ae6a008299545f58f5557818e029225338fcd6",
             "sent": true
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
@@ -74,6 +78,22 @@
             "start": 1626721200,
             "state": "closed",
             "title": "Purchase 10 Deebies for 1 ETH (+gas)"
+        },
+        "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "A bunch of us will send our JANKY HEIST (https://jankyheist.com/pages/about) NFTs to one person's wallet, so that the DAO can get at least 3 original JANKY NFTs from our combined parts. This is a proposal to reimburse all those involved, especially the person who will be holding all the NFTs and will need to send all of them back after the giveaway.",
+            "choices": [
+                "YES",
+                "NO"
+            ],
+            "created": 1626950500,
+            "end": 1627207200,
+            "id": "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v",
+            "snapshot": "12875644",
+            "start": 1626948000,
+            "state": "active",
+            "title": "Reimburse gas fees to everyone involved in sending JANKY HEIST nfts to CrisisDAO. "
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "__typename": "Proposal",
