@@ -1,5 +1,5 @@
 {
-    "last_update": 1627023430,
+    "last_update": 1627024024,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
@@ -30,7 +30,7 @@
             "sent": true
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
-            "hash": "2264ee4bec4e6666d37cf6d6231765b0e90a8978c8778879876a4b90",
+            "hash": "0fe1b9b7703f447f5190c04effd4f7abbb7976cfe05e2c94c60200a5",
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -189,7 +189,7 @@
             "id": "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv",
             "snapshot": "12835400",
             "start": 1626728400,
-            "state": "active",
+            "state": "closed",
             "title": "Create Derivative Works of CrisisDAO NFT"
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
