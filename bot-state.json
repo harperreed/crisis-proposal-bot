@@ -1,5 +1,5 @@
 {
-    "last_update": 1627087720,
+    "last_update": 1627089430,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
@@ -15,6 +15,10 @@
         },
         "QmRTkqBaKjco2FzZ1zCCs3CxURkB2djNSsD2oVbfqWyrLi": {
             "hash": "9386e5c4208337b9c5ffe6b22647201060bde6a329c2a389d58c2ba9",
+            "sent": true
+        },
+        "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
+            "hash": "0a55c60d375a59fdcebd7e15709fc54113e65082b0457537fa259792",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
@@ -126,6 +130,22 @@
             "start": 1625943600,
             "state": "closed",
             "title": "FAST BUY: 3 ETH worth of Punk Cats"
+        },
+        "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "Cutoff for this round will be as of 7/23/2021 11:59PM.\nSee all expenses at:\nhttps://docs.google.com/spreadsheets/d/1EGpR23LM1iy09SOCW0tpqCvbkjkYqqBUKfZcLqw4B0E/edit?ts=609059dc#gid=704607882&range=D2",
+            "choices": [
+                "Yes. We're professional amateurs",
+                "No. Force them as DAO donations"
+            ],
+            "created": 1627087837,
+            "end": 1627326000,
+            "id": "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK",
+            "snapshot": "12885791",
+            "start": 1627153200,
+            "state": "pending",
+            "title": "Reimburse from DAO expense sheet"
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "__typename": "Proposal",
