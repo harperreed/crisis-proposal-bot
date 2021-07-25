@@ -1,12 +1,12 @@
 {
-    "last_update": 1627207034,
+    "last_update": 1627207710,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
-            "hash": "6137f12f7997b5c9c3ae6a008299545f58f5557818e029225338fcd6",
+            "hash": "abb9dadde99c2bcc48f40cc639d9db3ba461874fa8a214b4946eb426",
             "sent": true
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
@@ -96,7 +96,7 @@
             "id": "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v",
             "snapshot": "12875644",
             "start": 1626948000,
-            "state": "active",
+            "state": "closed",
             "title": "Reimburse gas fees to everyone involved in sending JANKY HEIST nfts to CrisisDAO. "
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
