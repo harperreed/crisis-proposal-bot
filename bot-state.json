@@ -1,5 +1,5 @@
 {
-    "last_update": 1627444467,
+    "last_update": 1627445009,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
@@ -19,6 +19,10 @@
         },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
             "hash": "0a55c60d375a59fdcebd7e15709fc54113e65082b0457537fa259792",
+            "sent": true
+        },
+        "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3": {
+            "hash": "c8111ac79868aa47a78b832e090c0ad7b51fce911eaba2a60532f47b",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
@@ -146,6 +150,22 @@
             "start": 1627153200,
             "state": "pending",
             "title": "Reimburse from DAO expense sheet"
+        },
+        "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "1.750113160256 ETH total\nCopy of doc:\nhttps://docs.google.com/spreadsheets/d/1UoZt9i6PjZL9au2-90z-F2H5cbG-KdUy9wEn8MLvBeM/edit?usp=sharing\nOps team will finalize",
+            "choices": [
+                "Yes. Reimburse.",
+                "No. Not yet."
+            ],
+            "created": 1627444481,
+            "end": 1627758000,
+            "id": "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3",
+            "snapshot": "12912165",
+            "start": 1627498800,
+            "state": "pending",
+            "title": "Reimburse transaction costs of ~1.75 ETH"
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "__typename": "Proposal",
