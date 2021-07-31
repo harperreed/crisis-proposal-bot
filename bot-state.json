@@ -1,5 +1,5 @@
 {
-    "last_update": 1627757530,
+    "last_update": 1627758032,
     "notifications": {
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
@@ -22,7 +22,7 @@
             "sent": true
         },
         "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3": {
-            "hash": "eaa226495b7a74b185dbbf67cdcff6f363e4e4a0be1473ec89067753",
+            "hash": "e909ef2e08dd9c72f3bc30bb445286c1513ba5329a05a26764d218c2",
             "sent": true
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
@@ -164,7 +164,7 @@
             "id": "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3",
             "snapshot": "12912165",
             "start": 1627498800,
-            "state": "active",
+            "state": "closed",
             "title": "Reimburse transaction costs of ~1.75 ETH"
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
