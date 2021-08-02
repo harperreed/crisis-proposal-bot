@@ -1,5 +1,5 @@
 {
-    "last_update": 1627926953,
+    "last_update": 1627927525,
     "notifications": {
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
             "hash": "13fc7bc4d8857bca6a39b936634c787fc7b9028fa54ad5200dfdac93",
@@ -63,6 +63,10 @@
         },
         "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp": {
             "hash": "6e8f2a8b8a35a6035068eab341e871087907557dab4555357a4de043",
+            "sent": true
+        },
+        "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K": {
+            "hash": "c2b1f09f60ad7ff95f32529f53473b1ab79e418c036e9fbc217504f0",
             "sent": true
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
@@ -335,6 +339,22 @@
             "start": 1627916400,
             "state": "active",
             "title": "Sell Some NFTs"
+        },
+        "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "Bored Ape floor continues to rise and the DAO should be holding. This proposal authorizes up to 10 ETH for the purchase of 1 Bored Ape. When this proposal was initially written (on Sunday) the Bored Ape floor was 8 ETH, currently (on Monday) it's 8.2 ETH. Currently there's no expectation that trend will change. Bored Apes are likely the most discussed current NFT project both on our Discord and in the public space, so repeating any of that here seems redundant.\n\nThis is a proposal for ETH to be sent to a DAO member who will, after discussions about options with the scouting team, make the purchase on OpenSea, and who will then send the Ape and remaining ETH back to the DAO wallet.\n",
+            "choices": [
+                "Yes",
+                "No"
+            ],
+            "created": 1627927044,
+            "end": 1628002800,
+            "id": "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K",
+            "snapshot": "12947362",
+            "start": 1627916400,
+            "state": "active",
+            "title": "Buy A Bored Ape"
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
             "__typename": "Proposal",
