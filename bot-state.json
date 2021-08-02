@@ -1,8 +1,8 @@
 {
-    "last_update": 1627898186,
+    "last_update": 1627898802,
     "notifications": {
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
-            "hash": "0a1028c6c8ebe3352fc2fc96104e4796becc937c782c17ceb2caf95b",
+            "hash": "13fc7bc4d8857bca6a39b936634c787fc7b9028fa54ad5200dfdac93",
             "sent": true
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
@@ -88,7 +88,7 @@
             "id": "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz",
             "snapshot": "12944869",
             "start": 1627898400,
-            "state": "pending",
+            "state": "active",
             "title": "Buy World of Women?"
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
