@@ -1,5 +1,5 @@
 {
-    "last_update": 1627926470,
+    "last_update": 1627926953,
     "notifications": {
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
             "hash": "13fc7bc4d8857bca6a39b936634c787fc7b9028fa54ad5200dfdac93",
@@ -59,6 +59,10 @@
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
             "hash": "1e3906039501c43dbb02f562e121f2d829fe0239446aadf079dc62a7",
+            "sent": true
+        },
+        "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp": {
+            "hash": "6e8f2a8b8a35a6035068eab341e871087907557dab4555357a4de043",
             "sent": true
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
@@ -315,6 +319,22 @@
             "start": 1623340800,
             "state": "closed",
             "title": "Create an action item announcement channel"
+        },
+        "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "We are sitting on some NFTs which could potentially be sold at a profit which could be spent on other projects. This proposal is related to the Discord discussions about this and aims to send some of the NFTs from the vault to a single DAO member who will list them for sale on OpenSea. It is not currently technically possible to sell directly from the DAO wallet, so sending to an individual is an unfortunate necessity for secondary market sales.\n\nSpecific proposal: Scouting Team will agree on no less than 5 but no more than 10 common/floor NFTs to send to Micah who will coordinate with Sean about pricing and process and list them for sale.\n",
+            "choices": [
+                "Yes, let's sell some!",
+                "No, let's keep hodling."
+            ],
+            "created": 1627926570,
+            "end": 1628089200,
+            "id": "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp",
+            "snapshot": "12947335",
+            "start": 1627916400,
+            "state": "active",
+            "title": "Sell Some NFTs"
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
             "__typename": "Proposal",
