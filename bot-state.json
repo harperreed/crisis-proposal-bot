@@ -1,6 +1,10 @@
 {
-    "last_update": 1627892916,
+    "last_update": 1627893555,
     "notifications": {
+        "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
+            "hash": "0a1028c6c8ebe3352fc2fc96104e4796becc937c782c17ceb2caf95b",
+            "sent": true
+        },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
             "sent": true
@@ -71,6 +75,22 @@
         }
     },
     "proposals": {
+        "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "This proposal authorizes up to 2 ETH for the purchase of several World of Women ranging from floor to rares. Floor is currently 0.14\n\nTara Tiger did a lot of research to find rare traits that are undervalued.\n\nNick had also been digging but the floor price had already risen from 0.06ish to 0.14! Our 2 ETH can only afford 1 Woman now. Of those available to buy now, he suggests:\n\n(See Sean's google doc for pictures)\n\nEither Get 1 of these:\n\n#7210 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/7210?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 2 ETH. Looks cool, Empress of Darkness necklace rare. \n\n#6690 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/6690?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 2 ETH. Heterochromia eyes and Elven Warrior tattoo rare. Doesn\u2019t look as cool as above though.\n\n\n\nOr get these 2: (Slightly above 2 ETH total)\n\n#8213 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/8213?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 1.69 ETH. 70\u2019s Feels shades with Psychedelic Dress. Blue skin, rare hair. (Rarity 161.74)\n\n#8216 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/8216?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 0.3333 ETH. Lots of GOLD!!! (Rarity 114.88) \n\n\n\nOr these 2:\n\n#8364 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/8364?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 0.89 ETH. Matching green hair, necklace and clothes. (Rarity 153.68)\n\n#4084 https://opensea.io/assets/0xe785e82358879f061bc3dcac6f0444462d4b5330/4084?ref=0x2d2193f337a4e446c14caa5c90e7b5849203acd0 1 ETH. Cool. Hair. Cyber Warrior. 60\u2019s Fantasy earrings with Fantasy Shirt. (Rarity 152.67)\n\nETH will be sent to Nick (sorin.eth) who will make the purchase on OpenSea, and who will then send the Women and remaining ETH back to the DAO\n",
+            "choices": [
+                "Yes! BUY BUY BUY!",
+                "No. Let's sit on our ETHs."
+            ],
+            "created": 1627892933,
+            "end": 1627984800,
+            "id": "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz",
+            "snapshot": "12944869",
+            "start": 1627898400,
+            "state": "pending",
+            "title": "Buy World of Women?"
+        },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "__typename": "Proposal",
             "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
