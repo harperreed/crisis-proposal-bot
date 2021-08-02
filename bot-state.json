@@ -1,6 +1,10 @@
 {
-    "last_update": 1627927525,
+    "last_update": 1627928244,
     "notifications": {
+        "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
+            "hash": "dc5582ef9f34b2b0858d9204f5ff3a8dcc70282dde184c0037ba7006",
+            "sent": true
+        },
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
             "hash": "13fc7bc4d8857bca6a39b936634c787fc7b9028fa54ad5200dfdac93",
             "sent": true
@@ -69,6 +73,10 @@
             "hash": "c2b1f09f60ad7ff95f32529f53473b1ab79e418c036e9fbc217504f0",
             "sent": true
         },
+        "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
+            "hash": "01040203ef5473b9637ce6eaca94a0dc0b32c5622985b1fa2e8e2eb3",
+            "sent": true
+        },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
             "hash": "2cdb4f361d8a5c3bec1a1f02d339248a466af760a7518e0fc7acb01b",
             "sent": true
@@ -83,6 +91,22 @@
         }
     },
     "proposals": {
+        "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "This proposal authorizes up to 3 ETH for the purchase of several Mooncats. Floor is currently 0.4. More desirable ones are regularly selling for more than 1 ETH.\n\nMooncats predate CryptoPunks by several months, there are 25,000 rather than 10,000 like Punks. They were \u201clost\u201d for several years and \u201crescued\u201d earlier this year - essentially they were not proper 721 Tokens as they predated the standard, and the rescuing process wrapped them in an official 721 token. These were free for anyone who paid the gas to rescue them and are going up in value fast as people realize what they are.\n\nHere\u2019s a recent tweet showing the accumulation chart suggesting more and more people are starting to catch on.\nhttps://twitter.com/DCLBlogger/status/1422206227736449030\n\nRecently \u201caccessories\u201d were added allowing people to buy clothing and items that can be attached to their Mooncat NFTs, and Gary Vee has recently started tweeting about them as well.\n\nETH will be sent to a DAO member who will make the purchase on OpenSea, and who will then send the Mooncats and remaining ETH back to the DAO\n\n",
+            "choices": [
+                "Buy Mooncats!",
+                "Skip Mooncats!"
+            ],
+            "created": 1627927978,
+            "end": 1628002800,
+            "id": "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj",
+            "snapshot": "12947469",
+            "start": 1627916400,
+            "state": "active",
+            "title": "Buy Some Mooncats"
+        },
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
             "__typename": "Proposal",
             "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
@@ -355,6 +379,22 @@
             "start": 1627916400,
             "state": "active",
             "title": "Buy A Bored Ape"
+        },
+        "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
+            "__typename": "Proposal",
+            "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "body": "Sewer Rats Social Club was initially ignored (by us) as being a Bored Ape / Gutter Cat rip off but with the release of its own Social Token $CHIZ it\u2019s becoming something unique. $CHIZ is airdropped to Rat holders and is now accepted on OpenSea by some collections to buy NFTs, and is exchangeable for ETH via Uniswap. SRSC are promising further airdrops.\n\nThis proposal authorizes up to 2 ETH for the purchase of several Sewer Rats ranging from floor to semi-rares. Current floor is 0.045 and rares can be had for 0.5. As airdrops are sent per rat and ignore value, there's a value to just holding many regardless of rarity.\n\nETH will be sent to a DAO member who will, after discussions with the scouting team about options, make the purchase on OpenSea, and then send the Rats and remaining ETH back to the DAO.\n",
+            "choices": [
+                "Lets buy some Rats",
+                "Nah, lets skip this"
+            ],
+            "created": 1627927566,
+            "end": 1628002800,
+            "id": "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ",
+            "snapshot": "12947429",
+            "start": 1627916400,
+            "state": "active",
+            "title": "Buy Some Rats"
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
             "__typename": "Proposal",
