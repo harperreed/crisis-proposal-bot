@@ -1,8 +1,8 @@
 {
-    "last_update": 1628002423,
+    "last_update": 1628002939,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
-            "hash": "dc5582ef9f34b2b0858d9204f5ff3a8dcc70282dde184c0037ba7006",
+            "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
             "sent": true
         },
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
@@ -74,11 +74,11 @@
             "sent": true
         },
         "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K": {
-            "hash": "c2b1f09f60ad7ff95f32529f53473b1ab79e418c036e9fbc217504f0",
+            "hash": "0b3d84c25b1e2ebafd34b9ad494c88bd23995c5bc7a475a43609304c",
             "sent": true
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
-            "hash": "01040203ef5473b9637ce6eaca94a0dc0b32c5622985b1fa2e8e2eb3",
+            "hash": "dd017cfb54a399be9b85db8522836aabb14e31a877a6bbac410bf6d4",
             "sent": true
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
@@ -108,7 +108,7 @@
             "id": "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj",
             "snapshot": "12947469",
             "start": 1627916400,
-            "state": "active",
+            "state": "closed",
             "title": "Buy Some Mooncats"
         },
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
@@ -397,7 +397,7 @@
             "id": "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K",
             "snapshot": "12947362",
             "start": 1627916400,
-            "state": "active",
+            "state": "closed",
             "title": "Buy A Bored Ape"
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
@@ -413,7 +413,7 @@
             "id": "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ",
             "snapshot": "12947429",
             "start": 1627916400,
-            "state": "active",
+            "state": "closed",
             "title": "Buy Some Rats"
         },
         "QmdUPrWSqsasC3YNijH8HyLj4jvxJqqr6Lx1zvd3bu9eqE": {
