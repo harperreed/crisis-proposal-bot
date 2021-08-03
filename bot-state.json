@@ -1,5 +1,5 @@
 {
-    "last_update": 1627979386,
+    "last_update": 1627980032,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "dc5582ef9f34b2b0858d9204f5ff3a8dcc70282dde184c0037ba7006",
@@ -7,6 +7,10 @@
         },
         "QmNWoxEUquj1p58GYCsLVHXtLKHEVSjrd4qjBp4LaGDAkz": {
             "hash": "13fc7bc4d8857bca6a39b936634c787fc7b9028fa54ad5200dfdac93",
+            "sent": true
+        },
+        "QmNyRQ9XmpwyUAhZsCKsFfmxfyBAiN26AJxGJUp58x6zC7": {
+            "hash": "9f9ed7c1b440fcb120227c78cd86547ee65672791ad0311e820fee97",
             "sent": true
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
@@ -122,6 +126,22 @@
             "start": 1627898400,
             "state": "active",
             "title": "Buy World of Women?"
+        },
+        "QmNyRQ9XmpwyUAhZsCKsFfmxfyBAiN26AJxGJUp58x6zC7": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "1.750113160256 ETH total\nCopy of doc:\nhttps://docs.google.com/spreadsheets/d/1UoZt9i6PjZL9au2-90z-F2H5cbG-KdUy9wEn8MLvBeM/edit?usp=sharing\nOps team will finalize",
+            "choices": [
+                "Yes: Thanks for setting this up",
+                "Nope: Sorry Suckers"
+            ],
+            "created": 1627979601,
+            "end": 1628438400,
+            "id": "QmNyRQ9XmpwyUAhZsCKsFfmxfyBAiN26AJxGJUp58x6zC7",
+            "snapshot": "12951250",
+            "start": 1628006400,
+            "state": "pending",
+            "title": "Reimburse Setup Costs: ~1.75 ETH"
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "__typename": "Proposal",
