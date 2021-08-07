@@ -1,5 +1,5 @@
 {
-    "last_update": 1628333505,
+    "last_update": 1628334019,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -78,7 +78,7 @@
             "sent": true
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
-            "hash": "b27993961b83ee9ca6f83403ae70d124c2137dffc3a54fa18e3d2650",
+            "hash": "49129e49acc87e546e96b7c9d2999057d4442cab6a97e9772b8a9600",
             "sent": true
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
@@ -90,7 +90,7 @@
             "sent": true
         },
         "QmddWDgG5c5imKknfMEZP1woZM8CMN645NiWqWstPm7LNX": {
-            "hash": "08567953f09e19fd601cbf7af0245c150d500db08aeceb2247e232ed",
+            "hash": "2613494e5c53729064f250e712ad7843f564c50d405829eee867a72f",
             "sent": true
         },
         "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
@@ -422,7 +422,7 @@
             "id": "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi",
             "snapshot": "12959114",
             "start": 1628074800,
-            "state": "active",
+            "state": "closed",
             "title": "CrisisDAO Code of Conduct"
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
@@ -471,7 +471,7 @@
             "id": "QmddWDgG5c5imKknfMEZP1woZM8CMN645NiWqWstPm7LNX",
             "snapshot": "12959245",
             "start": 1628074800,
-            "state": "active",
+            "state": "closed",
             "title": "CrisisDAO Resolving Conflict"
         },
         "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
