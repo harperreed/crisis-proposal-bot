@@ -1,5 +1,5 @@
 {
-    "last_update": 1628364691,
+    "last_update": 1628365182,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -15,6 +15,10 @@
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
             "hash": "6c1e92adbc6bf4534f066e016b122759d7fe92196b4f60e70a2c3a07",
+            "sent": true
+        },
+        "QmPE9NMfHW6hbZX3pS2UzRQfKrjfWHgGWQP41B1SdYK8Mj": {
+            "hash": "687af1f9ab688767f61f6913974edd8db156943d9f3dc3f3536c61db",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
@@ -166,6 +170,24 @@
             "start": 1626721200,
             "state": "closed",
             "title": "Purchase 10 Deebies for 1 ETH (+gas)"
+        },
+        "QmPE9NMfHW6hbZX3pS2UzRQfKrjfWHgGWQP41B1SdYK8Mj": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "This proposal set a structure for the Crisis DAO governance token.\n\nThis proposal established the Organizational Premium (OP) to be added on top of the DAO's total holdings (of ETH/WETH/etc. + estimated NFT value) to incorporate the value of our CV: https://hackmd.io/@crisisdao/HJdWMrk0d\n\nThe OP also prevents accidental underpricing of assets as NFTs are currently booming.\n\nThe August 4th tally of assets is linked in the DAO Discord > Proposals > Top Up Token Pricing.\n\nThe Organizational Premium may be changed by future proposals.\n\nNOTE: A separate proposal will be posted after this to discuss a price for existing members to top up to 3M $CRISIS to recognize and reflect the participation and contribution of current members to date.\n\n(Like all governance tokens, $CRISIS tokens are not a security. It is illiquid and cannot be exchanged for its underlying value. It only confers the right of membership into the DAO and to vote in the actions of the DAO.)",
+            "choices": [
+                "0% No OP",
+                "10% OP",
+                "20% OP",
+                "30% OP"
+            ],
+            "created": 1628365062,
+            "end": 1628708400,
+            "id": "QmPE9NMfHW6hbZX3pS2UzRQfKrjfWHgGWQP41B1SdYK8Mj",
+            "snapshot": "12979827",
+            "start": 1628449200,
+            "state": "pending",
+            "title": "$CRISIS Token Operational Premium"
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "__typename": "Proposal",
