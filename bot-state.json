@@ -1,5 +1,5 @@
 {
-    "last_update": 1628370148,
+    "last_update": 1628370780,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -23,6 +23,10 @@
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "hash": "abb9dadde99c2bcc48f40cc639d9db3ba461874fa8a214b4946eb426",
+            "sent": true
+        },
+        "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
+            "hash": "ef8daec96920a0e679e33aca39cda469aca5b14fb4a1569cfc7e8604",
             "sent": true
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
@@ -204,6 +208,23 @@
             "start": 1626948000,
             "state": "closed",
             "title": "Reimburse gas fees to everyone involved in sending JANKY HEIST nfts to CrisisDAO. "
+        },
+        "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "This proposal authorizes up to 3 ETH for the purchase of 20 0n1 Force NFTs at a minting price of 0.77 + gas.\n\nProject homepage: https://www.0n1force.com/\n\nIn evaluating the project, we looked at four things:\n\n*Art Quality:* \nHigh. \n\n*Community:* \nActive Discord with thousands of members, with several actions being taken to drive engagement via derivative challenges and free NFTs. \n\n*Team:* \nFrom Sean: \"I've consulted with them (that is, they asked me to join a 2 hour private clubhouse room to bounce ideas and are giving me a free NFT for that). I know the other people who are involved and who have consulted (Alen H, Taylor, Black Dave, etc) and it's good people with large audiences. Their Discord is really active and people are super positive on it. The 4 people on the team all have followings in their own right, I think it's going to be solid.\"\n\n*Utility:*  \nLooking to create a metaverse, merch, and a comic book.\n\n\nGiven that minting doesn't happen until the 19th, we will use this project to work on our process for minting NFTs at launch and capturing maximum value. The scouting team is very open to having folks help plan this action.\n\nETH will be sent to a DAO member who will make the purchase on OpenSea, and who will then send the 0n1 Force NFTs and remaining ETH back to the DAO",
+            "choices": [
+                "Looks Dope. Let's Go!",
+                "I Am Not Stoked On This",
+                "I Abstain"
+            ],
+            "created": 1628370681,
+            "end": 1628708400,
+            "id": "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj",
+            "snapshot": "12980250",
+            "start": 1628449200,
+            "state": "pending",
+            "title": "Purchase 20 0n1 Force NFTs"
         },
         "QmRJUYaDRnF2s1p1KdyJMA8v4Kh5pRTK4bAgHmVjKY3Mtg": {
             "__typename": "Proposal",
