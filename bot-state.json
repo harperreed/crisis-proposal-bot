@@ -1,5 +1,5 @@
 {
-    "last_update": 1628438155,
+    "last_update": 1628438739,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -10,7 +10,7 @@
             "sent": true
         },
         "QmNyRQ9XmpwyUAhZsCKsFfmxfyBAiN26AJxGJUp58x6zC7": {
-            "hash": "c19ce7ec04c8843cb7147472e2f6f78d48949a6ea10df33ae5ba4b25",
+            "hash": "c01f4e50cbc8d56ac7729605d3113ac9b13b536f5bda78f13cf9dc52",
             "sent": true
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
@@ -156,7 +156,7 @@
             "id": "QmNyRQ9XmpwyUAhZsCKsFfmxfyBAiN26AJxGJUp58x6zC7",
             "snapshot": "12951250",
             "start": 1628006400,
-            "state": "active",
+            "state": "closed",
             "title": "Reimburse Setup Costs: ~1.75 ETH"
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
