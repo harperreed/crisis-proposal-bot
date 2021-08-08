@@ -1,5 +1,5 @@
 {
-    "last_update": 1628443029,
+    "last_update": 1628443795,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -39,6 +39,10 @@
         },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
             "hash": "0a55c60d375a59fdcebd7e15709fc54113e65082b0457537fa259792",
+            "sent": true
+        },
+        "QmSsg6MmCk88iAFNfsrheUGY8NHLi33ucvJYgvtUs1giU8": {
+            "hash": "12d64583d3e2b3f50d69b0f1f42ef66584908221ef433b8904636dd7",
             "sent": true
         },
         "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3": {
@@ -277,6 +281,23 @@
             "start": 1627153200,
             "state": "pending",
             "title": "Reimburse from DAO expense sheet"
+        },
+        "QmSsg6MmCk88iAFNfsrheUGY8NHLi33ucvJYgvtUs1giU8": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "This proposal authorizes up to 3 ETH for the purchase of 20 0n1 Force NFTs at a minting price of 0.77 + up to 1 ETH for gas.\n\nProject homepage: https://www.0n1force.com/\n\nIn evaluating the project, we looked at four things:\n\nArt Quality:\nHigh.\n\nCommunity:\nActive Discord with thousands of members, with several actions being taken to drive engagement via derivative challenges and free NFTs.\n\nTeam:\nThe Scouting team has spent time with the founding team and they are all good people with large audiences. The discord is really active and positive.\n\nUtility:\nLooking to create a metaverse, merch, and a comic book.\n\nGiven that minting doesn't happen until the 19th, we will use this project to work on our process for minting NFTs at launch and capturing maximum value. The scouting team is very open to having folks help plan this action.\n\nETH will be sent to a DAO member who will make the purchase on OpenSea, and who will then send the 0n1 Force NFTs and remaining ETH back to the DAO",
+            "choices": [
+                "Giggity Go!",
+                "No Shade, But Nope!",
+                "I abstain"
+            ],
+            "created": 1628443747,
+            "end": 1628708400,
+            "id": "QmSsg6MmCk88iAFNfsrheUGY8NHLi33ucvJYgvtUs1giU8",
+            "snapshot": "12985783",
+            "start": 1628445600,
+            "state": "pending",
+            "title": "Buy 20 0N1 Force NFTs (repost)"
         },
         "QmSxvQyMMokDEDaac4k47W4NcAvYvgHuCqLYZimPPrVGW3": {
             "__typename": "Proposal",
