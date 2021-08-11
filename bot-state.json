@@ -1,5 +1,5 @@
 {
-    "last_update": 1628644038,
+    "last_update": 1628645736,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -55,6 +55,10 @@
         },
         "QmTMp6bFiPhJkX5sV4nMRc2sKcicDL4KPSDLaAFwPgRc8A": {
             "hash": "de7dff78565b7683480bd88db01b9116247b1dac2716337792cbed90",
+            "sent": true
+        },
+        "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
+            "hash": "35ff217093f25747cb57c9e36097c07bff78949e2dc957d4f985d402",
             "sent": true
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
@@ -352,6 +356,22 @@
             "start": 1623607200,
             "state": "closed",
             "title": "Buy Super Yeti from Ben and Jacob"
+        },
+        "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "\nThis proposal set a new price for the Crisis DAO governance token to 1.5 ETH per 1 million $CRISIS tokens.\n\nThe total of the DAO\u2019s assets are worth about 1.25 ETH per 1 million $CRISIS tokens. We will add a premium of 0.25 ETH per 1 million $CRISIS tokens. \n\nTotal = 1.5 ETH/1M $CRISIS.\n\n1. This prevents accidental underpricing of assets as NFTs are currently booming.\n2. We all did a lot of work to get the DAO to function. Our CV is here:\u00a0https://hackmd.io/@crisisdao/HJdWMrk0d And the new price should reflect this.\n3. This pricing is in effect until a new price is established.\n\n(Like all governance tokens, $CRISIS tokens are not a security. It is illiquid and cannot be exchanged for its underlying value. It only confers the right of membership into the DAO and to vote in the actions of the DAO.)\n",
+            "choices": [
+                "Yes. 1m $CRISIS = 1.5 ETH",
+                "No. Set a different price"
+            ],
+            "created": 1628644776,
+            "end": 1628910000,
+            "id": "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K",
+            "snapshot": "13000838",
+            "start": 1628650800,
+            "state": "pending",
+            "title": "Set $CRISIS price to 1.5 ETH per 1 million"
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
             "__typename": "Proposal",
