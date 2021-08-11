@@ -1,5 +1,5 @@
 {
-    "last_update": 1628708221,
+    "last_update": 1628708782,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -14,7 +14,7 @@
             "sent": true
         },
         "QmP4dfHvFQpGnoAMRLYnQWquPRGi3X2hBNv5b8aBauoaWN": {
-            "hash": "67320db130efe52a0bf805bd671a4ef89a83182e24d75e00977bf6bb",
+            "hash": "952dac6ae3b2020a333392487aefa2f1ae8acc718fe2f4eb2bd940c8",
             "sent": true
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
@@ -189,7 +189,7 @@
             "id": "QmP4dfHvFQpGnoAMRLYnQWquPRGi3X2hBNv5b8aBauoaWN",
             "snapshot": "12986018",
             "start": 1628446620,
-            "state": "active",
+            "state": "closed",
             "title": "Buy 20 O1N Force NFTs (FOR REALZ THIS TIME)"
         },
         "QmPC5FtJgVbLrGCvn9zsLdaafhzpKqUkBuXcQc273BCNFu": {
