@@ -1,5 +1,5 @@
 {
-    "last_update": 1628810169,
+    "last_update": 1628810840,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -99,6 +99,10 @@
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
             "hash": "49129e49acc87e546e96b7c9d2999057d4442cab6a97e9772b8a9600",
+            "sent": true
+        },
+        "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
+            "hash": "ad6773e795d9284f47a25216a2f15c58877f00a28b0ffbf955698c18",
             "sent": true
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
@@ -533,6 +537,23 @@
             "start": 1628074800,
             "state": "closed",
             "title": "CrisisDAO Code of Conduct"
+        },
+        "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "As we start to think about ways to leverage our BAYC, Dale, we want to build a foundation that allows us to potentially operate in public and/or publicize ways of generating revenue from the BAYC.\n\nTo do this, we propose the purchase of DaleTheApe.ETH (at a cost of $5 of ETH based on information from the eth.domains site) and the .com domain DaleTheApe.com, which will cost approximately US$10.",
+            "choices": [
+                "Yes. Cool Domains.",
+                "No. Seems Silly.",
+                "I abstain."
+            ],
+            "created": 1628810800,
+            "end": 1628967600,
+            "id": "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn",
+            "snapshot": "13013291",
+            "start": 1628816400,
+            "state": "pending",
+            "title": "Purchase DaleTheApe.ETH and DaleTheApe.com"
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
             "__typename": "Proposal",
