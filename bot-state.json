@@ -1,5 +1,5 @@
 {
-    "last_update": 1628967120,
+    "last_update": 1628967617,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -102,7 +102,7 @@
             "sent": true
         },
         "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
-            "hash": "b642eb29469f38c3e169f31952061a9642854f1437337a7b16caf107",
+            "hash": "02f654d7f16c79696b686baa47bcfcf70f13c9430a6d192f06b908c3",
             "sent": true
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
@@ -552,7 +552,7 @@
             "id": "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn",
             "snapshot": "13013291",
             "start": 1628816400,
-            "state": "active",
+            "state": "closed",
             "title": "Purchase DaleTheApe.ETH and DaleTheApe.com"
         },
         "Qmca9kLciPyBpMKhoYUEJ5cFtUrE3Y695sGPdWsKG23hZZ": {
