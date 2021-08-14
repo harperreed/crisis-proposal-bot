@@ -1,5 +1,5 @@
 {
-    "last_update": 1628909512,
+    "last_update": 1628910013,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -58,7 +58,7 @@
             "sent": true
         },
         "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
-            "hash": "9a88922fffd1f76fb6be7a3c0d86e0baeaad0ca3fe60af03680f34d4",
+            "hash": "ea9aea0b55bfb210d9b2cc014ce10a866fa06d6633f13b8978e00b9c",
             "sent": true
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
@@ -374,7 +374,7 @@
             "id": "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K",
             "snapshot": "13000838",
             "start": 1628650800,
-            "state": "active",
+            "state": "closed",
             "title": "Set $CRISIS price to 1.5 ETH per 1 million"
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
