@@ -1,5 +1,5 @@
 {
-    "last_update": 1629672759,
+    "last_update": 1629673261,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -30,7 +30,7 @@
             "sent": true
         },
         "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
-            "hash": "c59d58f4d861e6d740a7351281d2510fd5802004089695b015b90cf0",
+            "hash": "10463eec3c36db840249e201bb283e7be1c2085551efd6e3fc00fa2b",
             "sent": true
         },
         "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
@@ -264,7 +264,7 @@
             "id": "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1",
             "snapshot": "13077910",
             "start": 1629673200,
-            "state": "pending",
+            "state": "active",
             "title": "Private Sale of 1 0N1 Force NFT"
         },
         "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
