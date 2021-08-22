@@ -1,5 +1,5 @@
 {
-    "last_update": 1629672253,
+    "last_update": 1629672759,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -27,6 +27,10 @@
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "hash": "abb9dadde99c2bcc48f40cc639d9db3ba461874fa8a214b4946eb426",
+            "sent": true
+        },
+        "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
+            "hash": "c59d58f4d861e6d740a7351281d2510fd5802004089695b015b90cf0",
             "sent": true
         },
         "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
@@ -245,6 +249,23 @@
             "start": 1626948000,
             "state": "closed",
             "title": "Reimburse gas fees to everyone involved in sending JANKY HEIST nfts to CrisisDAO. "
+        },
+        "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "We will sell this 01N Force NFT to a private buyer at 3.5ETH\n\nhttps://opensea.io/assets/0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d/7146\n\nThis will create a profit from our purchase of 0N1 Force NFTs.\n\nThe purchaser is a friend of Micah's and has been vetted as a positive individual, and has been invited to the Crisis Discord as well.",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1629672254,
+            "end": 1629831600,
+            "id": "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1",
+            "snapshot": "13077910",
+            "start": 1629673200,
+            "state": "pending",
+            "title": "Private Sale of 1 0N1 Force NFT"
         },
         "QmRD9hxDErNWeoDzDTQimpsSqt4gMLkhobnaxrUmMDXNpj": {
             "__typename": "Proposal",
