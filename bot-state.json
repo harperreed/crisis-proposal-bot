@@ -1,5 +1,5 @@
 {
-    "last_update": 1629772236,
+    "last_update": 1629772904,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -77,6 +77,10 @@
             "hash": "0fe1b9b7703f447f5190c04effd4f7abbb7976cfe05e2c94c60200a5",
             "sent": true
         },
+        "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
+            "hash": "3f8f015d44ee29adcae1246993e6d0178cc9e23a9c4bba7cdf89304d",
+            "sent": true
+        },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
             "hash": "76df78c4495a0051358fdf1ded16269f56a45db637d6678a4ae84dc2",
             "sent": true
@@ -99,6 +103,10 @@
         },
         "QmaS5TRc3rNkcqkGesKdpznpkvQ3CaQ9xDD3ttyT5TeZ4K": {
             "hash": "0b3d84c25b1e2ebafd34b9ad494c88bd23995c5bc7a475a43609304c",
+            "sent": true
+        },
+        "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv": {
+            "hash": "baecabce9f2d7542fc168462cd4f0fba0aa1cc302d532c33a27735e5",
             "sent": true
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
@@ -446,6 +454,23 @@
             "state": "closed",
             "title": "Create Derivative Works of CrisisDAO NFT"
         },
+        "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Topic: Current members increasing buy in up to 3 million $CRISIS\n\nThread: N/A\n\nProposal: A proposal passed on July 14th 2021 that unanimously approved \u201cAny member who owns less than 3 million $CRISIS can buy up to the max via Airswap.\u201d This proposal clarifies that existing members can purchase up to 3 Million $CRISIS tokens at the original price of 1 ETH per 1 Million Tokens. The cutoff date for purchasing at this price is September 9th 2021 when a new price (approved August 13, 2021) will go into effect and we will open the DAO to new members.\n",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1629772478,
+            "end": 1629946800,
+            "id": "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK",
+            "snapshot": "13085331",
+            "start": 1629772200,
+            "state": "active",
+            "title": "Should we allow current members to increase their buy in up to 3 million $CRISIS at the original price?"
+        },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
             "__typename": "Proposal",
             "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
@@ -541,6 +566,23 @@
             "start": 1627916400,
             "state": "closed",
             "title": "Buy A Bored Ape"
+        },
+        "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Topic: Modify Operating Agreement: Maximum Contribution changed from 3ETH to maximum purchase of 3 Million $CRISIS\n\nThread: N/A\n\nProposal: There are conflicting maximum buy-in metrics in various DAO documents. This proposal will modify the \u201cOperating Agreement\u201d and supersede any other document referencing the maximum buy-in amount. Clause 2 in the Operating Agreement which reads \u201cThe minimum contributions is 0.5 ETH. Maximum is 3 ETH\u201d will be modified to \u201cThe minimum contribution is 0.5 ETH with a maximum purchase of 3 Million $CRISIS tokens\u201d.\n",
+            "choices": [
+                "Yes - Modify Operating Agreement",
+                "No - Leave it as is",
+                "Abstain"
+            ],
+            "created": 1629772683,
+            "end": 1629946800,
+            "id": "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv",
+            "snapshot": "13085375",
+            "start": 1629772200,
+            "state": "active",
+            "title": "Should we modify the Operating Agreement as described in this proposal?"
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
             "__typename": "Proposal",
