@@ -1,5 +1,5 @@
 {
-    "last_update": 1629946675,
+    "last_update": 1629947280,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -78,7 +78,7 @@
             "sent": true
         },
         "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
-            "hash": "3f8f015d44ee29adcae1246993e6d0178cc9e23a9c4bba7cdf89304d",
+            "hash": "da45567e40a7b120e0d2cf9a78b47f08936417b4f4a5a1bda7c75ce7",
             "sent": true
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -106,7 +106,7 @@
             "sent": true
         },
         "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv": {
-            "hash": "baecabce9f2d7542fc168462cd4f0fba0aa1cc302d532c33a27735e5",
+            "hash": "8000f1bfa2374fac99fc42114c104a0c63c3adaf72a4d8151ff0580a",
             "sent": true
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
@@ -468,7 +468,7 @@
             "id": "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK",
             "snapshot": "13085331",
             "start": 1629772200,
-            "state": "active",
+            "state": "closed",
             "title": "Should we allow current members to increase their buy in up to 3 million $CRISIS at the original price?"
         },
         "QmWRoNn7uck4FFCwetufRX4wJePztcCCaBJdUzPdaE1CKi": {
@@ -581,7 +581,7 @@
             "id": "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv",
             "snapshot": "13085375",
             "start": 1629772200,
-            "state": "active",
+            "state": "closed",
             "title": "Should we modify the Operating Agreement as described in this proposal?"
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
