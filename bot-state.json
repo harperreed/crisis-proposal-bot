@@ -1,5 +1,5 @@
 {
-    "last_update": 1630633421,
+    "last_update": 1630634741,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -135,6 +135,10 @@
         },
         "Qme95CsUyqy8c1N614Hqxko1VhoUpT94kNv2vmnpCaZVAF": {
             "hash": "f8777525b2740875c459b085e58cce0dc764b67f50517590134bade6",
+            "sent": true
+        },
+        "QmeowDaPH4xesGJ3zK6XuE19tm5t3xbnz5uft42hKFTmQa": {
+            "hash": "356ef6df6253503180375d9d23a9b67557078e0f5f0a1f3d0f1225a3",
             "sent": true
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
@@ -699,6 +703,23 @@
             "start": 1626073260,
             "state": "closed",
             "title": "Let current members buy up to 3 million $CRISIS"
+        },
+        "QmeowDaPH4xesGJ3zK6XuE19tm5t3xbnz5uft42hKFTmQa": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "This proposal makes changes to the list of members on the Membership, Scouting and Operations committees as follows:\n\n- Remove TaraTiger from Membership Committee\n- Remove TriciaWang from Scouting Committee\n- Add Micah to the Membership Committee\n- Add TriciaWang to the Operations Committee",
+            "choices": [
+                "Yes - Approved",
+                "No - Declined",
+                "Abstain"
+            ],
+            "created": 1630634192,
+            "end": 1630805400,
+            "id": "QmeowDaPH4xesGJ3zK6XuE19tm5t3xbnz5uft42hKFTmQa",
+            "snapshot": "13149875",
+            "start": 1630632600,
+            "state": "active",
+            "title": "Committee Member Changes"
         },
         "QmfBJ1VddRRbDv3WicSxxPHtAx6TSwcDcqtAzR5oecmj8T": {
             "__typename": "Proposal",
