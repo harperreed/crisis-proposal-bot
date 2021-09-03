@@ -1,5 +1,5 @@
 {
-    "last_update": 1630634741,
+    "last_update": 1630635570,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -61,6 +61,10 @@
             "hash": "de7dff78565b7683480bd88db01b9116247b1dac2716337792cbed90",
             "sent": true
         },
+        "QmTS2x3SV1YKn6f8qPcGQixMopzSAYMtJhJsTikMqGDm9E": {
+            "hash": "fc9445ba296d14fd46a574c8086a1171bc808e2fc554fdf0329bdc6d",
+            "sent": true
+        },
         "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
             "hash": "ea9aea0b55bfb210d9b2cc014ce10a866fa06d6633f13b8978e00b9c",
             "sent": true
@@ -75,6 +79,10 @@
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
             "hash": "0fe1b9b7703f447f5190c04effd4f7abbb7976cfe05e2c94c60200a5",
+            "sent": true
+        },
+        "QmW2ccut1FmE8GeBQjWPJ5NeVkB5iuFWRaZw8U1Dy3Ftyp": {
+            "hash": "5ffedaec6e17aac1163627ad8a6e57ef934567284d2f98e075ad64d8",
             "sent": true
         },
         "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
@@ -394,6 +402,23 @@
             "state": "closed",
             "title": "Buy Super Yeti from Ben and Jacob"
         },
+        "QmTS2x3SV1YKn6f8qPcGQixMopzSAYMtJhJsTikMqGDm9E": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Right now our gnosis multisig (safe.crisisdao.eth) is a 3/5 multisig with Ben, Harper, SeanBonner, Shazow and TriciaWang as signers. At times we have had slight delays in getting 3 sigs so this proposal will add 2 additional signers.\n\nI propose we make it 3/7 and add:\n\nMJ (jonruth.eth)\nNicwn (nickwang.eth)",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1630635271,
+            "end": 1630807200,
+            "id": "QmTS2x3SV1YKn6f8qPcGQixMopzSAYMtJhJsTikMqGDm9E",
+            "snapshot": "13149981",
+            "start": 1630634400,
+            "state": "active",
+            "title": "Add 2 more signers to Crisis Multisig"
+        },
         "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
             "__typename": "Proposal",
             "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
@@ -457,6 +482,23 @@
             "start": 1626728400,
             "state": "closed",
             "title": "Create Derivative Works of CrisisDAO NFT"
+        },
+        "QmW2ccut1FmE8GeBQjWPJ5NeVkB5iuFWRaZw8U1Dy3Ftyp": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "SpaceMonkey has been working on an exciting bot which will be very useful to the DAO. It is a bot that aggregates threads so that we are able to get a summary of the relevant info without hours of scrolling. This will be especially helpful for those who are unable for whatever reason to check in regularly on the discord. In our member survey many people felt keeping up with the DAO was one of the main reasons they were disengaged. This bot will hopefully help with this issue. \n\nSpaceMonkey is putting the final touches on the bot but I feel that since he had been working for the DAO without being a member that we should reward his work. This proposal if passed would allow him to ape into the DAO by 9/9 at the current price.",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1630634895,
+            "end": 1630807200,
+            "id": "QmW2ccut1FmE8GeBQjWPJ5NeVkB5iuFWRaZw8U1Dy3Ftyp",
+            "snapshot": "13149925",
+            "start": 1630634400,
+            "state": "active",
+            "title": "Invite SpaceMonkey to join the DAO at the current price"
         },
         "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
             "__typename": "Proposal",
