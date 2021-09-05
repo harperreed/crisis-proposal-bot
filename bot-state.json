@@ -1,5 +1,5 @@
 {
-    "last_update": 1630806414,
+    "last_update": 1630807685,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -62,7 +62,7 @@
             "sent": true
         },
         "QmTS2x3SV1YKn6f8qPcGQixMopzSAYMtJhJsTikMqGDm9E": {
-            "hash": "fc9445ba296d14fd46a574c8086a1171bc808e2fc554fdf0329bdc6d",
+            "hash": "8b9d594262694e9c7710148627f8e662d6d75d44bd2be0c47f8c72c4",
             "sent": true
         },
         "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
@@ -82,7 +82,7 @@
             "sent": true
         },
         "QmW2ccut1FmE8GeBQjWPJ5NeVkB5iuFWRaZw8U1Dy3Ftyp": {
-            "hash": "5ffedaec6e17aac1163627ad8a6e57ef934567284d2f98e075ad64d8",
+            "hash": "09983daddc9033010a014e18f22a3990221dc1859feeb9ad17e28384",
             "sent": true
         },
         "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
@@ -416,7 +416,7 @@
             "id": "QmTS2x3SV1YKn6f8qPcGQixMopzSAYMtJhJsTikMqGDm9E",
             "snapshot": "13149981",
             "start": 1630634400,
-            "state": "active",
+            "state": "closed",
             "title": "Add 2 more signers to Crisis Multisig"
         },
         "QmTf1Hu3vXfyek5Mdubrc3VFPPDmXQTcxEr3ThHWNo9j8K": {
@@ -497,7 +497,7 @@
             "id": "QmW2ccut1FmE8GeBQjWPJ5NeVkB5iuFWRaZw8U1Dy3Ftyp",
             "snapshot": "13149925",
             "start": 1630634400,
-            "state": "active",
+            "state": "closed",
             "title": "Invite SpaceMonkey to join the DAO at the current price"
         },
         "QmWMncp1puPmGgpjxSjCdQsjp4z8EPLqTLragR29r2RMpK": {
