@@ -1,5 +1,5 @@
 {
-    "last_update": 1630900353,
+    "last_update": 1630900849,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -119,6 +119,10 @@
         },
         "Qmaa8JetXSW4F49BWs6sGSuVVCVEwvwJscd3jjkAY8mpmv": {
             "hash": "8000f1bfa2374fac99fc42114c104a0c63c3adaf72a4d8151ff0580a",
+            "sent": true
+        },
+        "Qmb5EYkWmBGcvpaYfxJ6CoufWXhCTuNyD1nvZiUZFU1XWi": {
+            "hash": "02700e711ed997a7957bbfbf0f9d9ddc29d43f592af6178eaeb0984f",
             "sent": true
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
@@ -650,6 +654,23 @@
             "start": 1629772200,
             "state": "closed",
             "title": "Should we modify the Operating Agreement as described in this proposal?"
+        },
+        "Qmb5EYkWmBGcvpaYfxJ6CoufWXhCTuNyD1nvZiUZFU1XWi": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Topic: We may be around the top of the current NFT market cycle. In the past week or so prices have been slipping off floor highs.\n\nThread: https://discord.com/channels/795861033646030858/879545319409451048/879545699543445555\n\nProposal: Transfer the assets listed on the \"To Sell\" tab of this spreadsheet  to Micah. \n\nhttps://docs.google.com/spreadsheets/d/1RLui09HFfiSRlrjE0NMaO1YrjtvcfXnlLQCjbMjZ-L4/edit?usp=sharing) \n\nI tried to keep a few rare NFT's from some of the collections. We may choose to list these but it would be at a higher price which we can do in a separate proposal. The prices listed are the current floor prices and may not represent the final sale price.\n\nMicah will list all of the NFT's on the list on OpenSea at the floor price at the time of the listing. If needed prices will be lowered further to follow the floor. The goal is to liquidate these assets in order to realize gains where possible and add funds back into our safe.",
+            "choices": [
+                "Yes - Time to liquidate",
+                "No - HODL for life",
+                "Abstain"
+            ],
+            "created": 1630900594,
+            "end": 1631071800,
+            "id": "Qmb5EYkWmBGcvpaYfxJ6CoufWXhCTuNyD1nvZiUZFU1XWi",
+            "snapshot": "13166002",
+            "start": 1630899000,
+            "state": "active",
+            "title": "List NFT's for sale - Liquidate a portion of our collection"
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
             "__typename": "Proposal",
