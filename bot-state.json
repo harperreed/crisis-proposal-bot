@@ -1,5 +1,5 @@
 {
-    "last_update": 1631071511,
+    "last_update": 1631072080,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -122,7 +122,7 @@
             "sent": true
         },
         "Qmb5EYkWmBGcvpaYfxJ6CoufWXhCTuNyD1nvZiUZFU1XWi": {
-            "hash": "02700e711ed997a7957bbfbf0f9d9ddc29d43f592af6178eaeb0984f",
+            "hash": "6775b840701bf79959984f1d31493529d9fb00fe2709df68381e23ed",
             "sent": true
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
@@ -669,7 +669,7 @@
             "id": "Qmb5EYkWmBGcvpaYfxJ6CoufWXhCTuNyD1nvZiUZFU1XWi",
             "snapshot": "13166002",
             "start": 1630899000,
-            "state": "active",
+            "state": "closed",
             "title": "List NFT's for sale - Liquidate a portion of our collection"
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
