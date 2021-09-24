@@ -1,5 +1,5 @@
 {
-    "last_update": 1632497700,
+    "last_update": 1632498322,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -23,6 +23,10 @@
         },
         "QmPE9NMfHW6hbZX3pS2UzRQfKrjfWHgGWQP41B1SdYK8Mj": {
             "hash": "687af1f9ab688767f61f6913974edd8db156943d9f3dc3f3536c61db",
+            "sent": true
+        },
+        "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ": {
+            "hash": "0331737c2c0e8775a4043ce7ba8447e4dc48d3697731d2201f2795ee",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
@@ -261,6 +265,23 @@
             "start": 1628449200,
             "state": "pending",
             "title": "$CRISIS Token Operational Premium"
+        },
+        "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "We recently received an M2 Mutant Serum as a gift to Dale from Bored Ape Yacht Club (BAYC). This allows us to use Dale to create an M2 Mutant Ape Yacht Club (MAYC) brother. I am proposing that we buy an M1 Mutant Serum (current floor 4.2ETH) so that we can create 2 mutant brothers for Dale. We can use one of each type of serum on Dale. Long term I think the set (Dale + 2 mutant brothers) will be a valuable asset. Also the floor on these MAYC mutants is 4.75ETH so we are generally making a winning investment from the start. \n\nHere is a link to the proposed serum:\nhttps://opensea.io/assets/0x22c36bfdcef207f9c0cc941936eff94d4246d14a/0\n\nand here is a link to MAYC:\nhttps://opensea.io/collection/mutant-ape-yacht-club?collectionSlug=mutant-ape-yacht-club&search[sortBy]=PRICE&search[sortAscending]=true&search[toggles][0]=BUY_NOW",
+            "choices": [
+                "Yes - Mutate away",
+                "No - Mutants are bad",
+                "Abstain"
+            ],
+            "created": 1632498122,
+            "end": 1632668400,
+            "id": "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ",
+            "snapshot": "13289267",
+            "start": 1632495600,
+            "state": "active",
+            "title": "Should we buy an M1 Mutant Serum?"
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "__typename": "Proposal",
