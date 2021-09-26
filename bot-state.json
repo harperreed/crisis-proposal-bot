@@ -1,5 +1,5 @@
 {
-    "last_update": 1632667967,
+    "last_update": 1632668491,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -26,7 +26,7 @@
             "sent": true
         },
         "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ": {
-            "hash": "0331737c2c0e8775a4043ce7ba8447e4dc48d3697731d2201f2795ee",
+            "hash": "777e40fc394ab852effc1983d356d00d991db0383d931f6573ce9aa2",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
@@ -280,7 +280,7 @@
             "id": "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ",
             "snapshot": "13289267",
             "start": 1632495600,
-            "state": "active",
+            "state": "closed",
             "title": "Should we buy an M1 Mutant Serum?"
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
