@@ -1,5 +1,5 @@
 {
-    "last_update": 1632671637,
+    "last_update": 1632672179,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -131,6 +131,10 @@
         },
         "QmbC26DFCYXz8Jof4yydtGrfLvtPZ7Kju69fzB5hBbVBNi": {
             "hash": "49129e49acc87e546e96b7c9d2999057d4442cab6a97e9772b8a9600",
+            "sent": true
+        },
+        "QmbPNqBtAFb6QSos8SKbaQdomJcYUomBAeVNGXLZaUQChU": {
+            "hash": "98f90c27c276f334dd92454bf0b672dd3904fd04efebd3e0d4019335",
             "sent": true
         },
         "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
@@ -709,6 +713,23 @@
             "start": 1628074800,
             "state": "closed",
             "title": "CrisisDAO Code of Conduct"
+        },
+        "QmbPNqBtAFb6QSos8SKbaQdomJcYUomBAeVNGXLZaUQChU": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Lazy Lions have continued to grow in value over the last few weeks, and just launched Bungalows that are mintable for free+gas for Lazy Lion owners.\n\nThe community is strong, they have delivered on 3/5 of the roadmap on time and continue to work to deliver.\n\nI propose that we buy two Lazy Lions at a price between 3 and 4ETH and claim the bungalows.\n\nSome stats:\nDiscord: 33,500\nTwitter: 28,900\nHolders: 4,550 (out of 10k)\nFloor: 2.6 (9/26/21)",
+            "choices": [
+                "YES! RAWR",
+                "NO! MEOW",
+                "ABSTAIN"
+            ],
+            "created": 1632671956,
+            "end": 1632855600,
+            "id": "QmbPNqBtAFb6QSos8SKbaQdomJcYUomBAeVNGXLZaUQChU",
+            "snapshot": "13302315",
+            "start": 1632672000,
+            "state": "active",
+            "title": "Purchase two Lazy Lions"
         },
         "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
             "__typename": "Proposal",
