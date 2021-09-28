@@ -1,5 +1,5 @@
 {
-    "last_update": 1632801426,
+    "last_update": 1632802012,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -79,6 +79,10 @@
         },
         "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
             "hash": "24b1008f7d94b9bf93f94d6651443422c61da04d99e362d9d13d34ca",
+            "sent": true
+        },
+        "QmV943EoHom2YHQmbLqMpGdKYgt65RECN9DFUNsk9xkRgj": {
+            "hash": "d89f354aac2b40403fe5c7d87ef84f4b5b3cbbd94c6d399b225e424b",
             "sent": true
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
@@ -499,6 +503,23 @@
             "start": 1626162420,
             "state": "closed",
             "title": "Make DAO channels private"
+        },
+        "QmV943EoHom2YHQmbLqMpGdKYgt65RECN9DFUNsk9xkRgj": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Topic: There have been several discussions about selling a portion of our assets. This proposal is to decide if now is the time.\n\nDiscord Threads: \nhttps://discord.com/channels/795861033646030858/879545319409451048/879545699543445555\n\nhttps://discord.com/channels/795861033646030858/889319879491080203/889320019937329172\n\nProposal: We will transfer the assets listed on the \"To Sell\" tab of this spreadsheet to Micah's Crisis wallet (MicahCD 0x76af1e12c7c017ad2128cd952fbd919e6514c790).\n\nhttps://docs.google.com/spreadsheets/d/1RLui09HFfiSRlrjE0NMaO1YrjtvcfXnlLQCjbMjZ-L4/edit?usp=sharing\n\nFor reference I have highlighted the items on the \u201c$CRISIS Assets\u201d tab in light green. I tried to keep a few rare NFT's from some of the collections. I looked at the rarity of the NFT\u2019s on OpenSea to estimate starting prices for the sales. The prices listed are the current floor prices of the collections or the rare traits and may not represent the final sale price.\n\nMicah will list all of the NFT's on OpenSea at the prices in the spreadsheet. If needed, prices will be lowered further to follow the floor. The goal is to liquidate these assets in order to realize a gain as a portfolio and add funds back into our safe. Some collections have very low volume so they may sit for a while. We spent ~4ETH on the listed items and at a minimum we will target a 3x return (~12ETH). If everything sells at the starting price we would see a ~4.6x return (~18ETH).\n\n",
+            "choices": [
+                "Yes: Let's sell some NFT's!",
+                "No: Diamond hands-HODL for life",
+                "Abstain"
+            ],
+            "created": 1632801557,
+            "end": 1632973800,
+            "id": "QmV943EoHom2YHQmbLqMpGdKYgt65RECN9DFUNsk9xkRgj",
+            "snapshot": "13311959",
+            "start": 1632801000,
+            "state": "active",
+            "title": "List NFT's for sale - Should we liquidate a portion of our collection?"
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
             "__typename": "Proposal",
