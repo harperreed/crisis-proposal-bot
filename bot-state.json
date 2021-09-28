@@ -1,5 +1,5 @@
 {
-    "last_update": 1632855319,
+    "last_update": 1632855855,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -138,7 +138,7 @@
             "sent": true
         },
         "QmbPNqBtAFb6QSos8SKbaQdomJcYUomBAeVNGXLZaUQChU": {
-            "hash": "98f90c27c276f334dd92454bf0b672dd3904fd04efebd3e0d4019335",
+            "hash": "97babbb3100e55a903291ca8a121f51fc7be18fe73d3149a72844329",
             "sent": true
         },
         "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
@@ -749,7 +749,7 @@
             "id": "QmbPNqBtAFb6QSos8SKbaQdomJcYUomBAeVNGXLZaUQChU",
             "snapshot": "13302315",
             "start": 1632672000,
-            "state": "active",
+            "state": "closed",
             "title": "Purchase two Lazy Lions"
         },
         "QmbsHVpstu8N6xDwZeqqt8SuwD4tA3oNHkeNeV8GGCBrWn": {
