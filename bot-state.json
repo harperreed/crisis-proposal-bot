@@ -1,5 +1,5 @@
 {
-    "last_update": 1632973523,
+    "last_update": 1632974013,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -82,7 +82,7 @@
             "sent": true
         },
         "QmV943EoHom2YHQmbLqMpGdKYgt65RECN9DFUNsk9xkRgj": {
-            "hash": "d89f354aac2b40403fe5c7d87ef84f4b5b3cbbd94c6d399b225e424b",
+            "hash": "84593da8e43a810b6a8432bce66172c27a8fddc5ed71c2ad6cbea544",
             "sent": true
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
@@ -518,7 +518,7 @@
             "id": "QmV943EoHom2YHQmbLqMpGdKYgt65RECN9DFUNsk9xkRgj",
             "snapshot": "13311959",
             "start": 1632801000,
-            "state": "active",
+            "state": "closed",
             "title": "List NFT's for sale - Should we liquidate a portion of our collection?"
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
