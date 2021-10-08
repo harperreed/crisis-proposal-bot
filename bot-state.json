@@ -1,5 +1,5 @@
 {
-    "last_update": 1633715608,
+    "last_update": 1633716125,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -75,6 +75,10 @@
         },
         "QmTs7eLZTQh9Ufoe1YmPK84uXffb9bGLm4hozAtqykKe24": {
             "hash": "c3fd57879d61e18456a01ffb3ce32f3558944604b02f8d00c6988805",
+            "sent": true
+        },
+        "QmUDtDe5Fup8FGK4ELYdrUxApyhkTD89DvBHYAnr1wU7w1": {
+            "hash": "1b0f7f3764445dbad99ccfd0bad5f1afab0c9a5a0ba1148cbd9844bd",
             "sent": true
         },
         "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
@@ -487,6 +491,23 @@
             "start": 1625234400,
             "state": "closed",
             "title": "Crisis DAO Charter"
+        },
+        "QmUDtDe5Fup8FGK4ELYdrUxApyhkTD89DvBHYAnr1wU7w1": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Sell Ben Huh, a DAO member, one 0N1 Force NFT at the price set by @MJ during our current (October) asset sale.\n\nBen would purchase the 0N1 Force at the price set from the DAO. He also confirms that he is purchasing it because of his interest in the property not because he has any inside information.",
+            "choices": [
+                "YES",
+                "NO",
+                "ABSTAIN"
+            ],
+            "created": 1633716115,
+            "end": 1633892400,
+            "id": "QmUDtDe5Fup8FGK4ELYdrUxApyhkTD89DvBHYAnr1wU7w1",
+            "snapshot": "13379677",
+            "start": 1633716300,
+            "state": "pending",
+            "title": "Sell Ben Huh 1 0N1 Force during asset sale"
         },
         "QmUJdDWTz7aZsfmiaduYgk9urNXt4KgLZvnkRDGiGzL39j": {
             "__typename": "Proposal",
