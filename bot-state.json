@@ -1,5 +1,5 @@
 {
-    "last_update": 1633808869,
+    "last_update": 1633809357,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -119,6 +119,10 @@
         },
         "QmY2Sbw56NCaTmKxHDJ3XS3uhUWTsEPargLz9b2X3WrLqq": {
             "hash": "1e3906039501c43dbb02f562e121f2d829fe0239446aadf079dc62a7",
+            "sent": true
+        },
+        "QmYJ67ukrgUQDQwTdwWHpwjc99eL4ic7Q4bNgq4rfyW4xQ": {
+            "hash": "31328176459c4f58a2d6e3a34d90ba7f31fcfe076eb4adae16c16f4c",
             "sent": true
         },
         "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp": {
@@ -672,6 +676,23 @@
             "start": 1623340800,
             "state": "closed",
             "title": "Create an action item announcement channel"
+        },
+        "QmYJ67ukrgUQDQwTdwWHpwjc99eL4ic7Q4bNgq4rfyW4xQ": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Right now our gnosis multisig (safe.crisisdao.eth) is a 3/7 multisig with BenHuh, Harper, SeanBonner, Shazow, TriciaWang, MJ and Nicwn as signers. This proposal swaps in/out the following members:\n\nI propose we add: Micah (micahb.eth) and remove: TriciaWang (triciawang.eth)\n\nI have discussed this with both parties and they agree to these changes.. ",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1633809101,
+            "end": 1633980600,
+            "id": "QmYJ67ukrgUQDQwTdwWHpwjc99eL4ic7Q4bNgq4rfyW4xQ",
+            "snapshot": "13386462",
+            "start": 1633807800,
+            "state": "active",
+            "title": "Changes to Multisig Signers"
         },
         "QmZbW1i7Fz5nkFaE2ZpNG4KLyt9jLV4YMAbohsyKaZCsXp": {
             "__typename": "Proposal",
