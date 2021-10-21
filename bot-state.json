@@ -1,5 +1,5 @@
 {
-    "last_update": 1634844896,
+    "last_update": 1634845401,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -27,6 +27,10 @@
         },
         "QmPrT2sesM5Vcnx7FqodPeqhnSWknkG7v1u4Wtphw8sKuQ": {
             "hash": "777e40fc394ab852effc1983d356d00d991db0383d931f6573ce9aa2",
+            "sent": true
+        },
+        "QmPvaH4nLe8ZH1g5qAMf5Xubpne5PiXpebwsQkHeGBeGaT": {
+            "hash": "bea18cd66039948042300df07225a9adceae8b4fa8dcd20f65b4ca09",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
@@ -302,6 +306,23 @@
             "start": 1632495600,
             "state": "closed",
             "title": "Should we buy an M1 Mutant Serum?"
+        },
+        "QmPvaH4nLe8ZH1g5qAMf5Xubpne5PiXpebwsQkHeGBeGaT": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "This proposal allocates 0.8 ETH + gas to a member to acquire 10 GAWDS at a price of up to 0.08 ETH each.\n\nGawds https://www.gawds.xyz/ is a high-quality NFT series utilizing holographic art that can be viewed on a 3D-capable display like a Looking Glass.  I also find the community to be fun and positive and the art to be well crafted and unique\n\nNote: JamieW is a member of the Crisis Discord, but I am proposing this without any prompting. \nDisclosure: I hold 1 GAWDS. I have no plans to sell it.",
+            "choices": [
+                "Yes.",
+                "No.",
+                "Abstain."
+            ],
+            "created": 1634844922,
+            "end": 1635105600,
+            "id": "QmPvaH4nLe8ZH1g5qAMf5Xubpne5PiXpebwsQkHeGBeGaT",
+            "snapshot": "13462906",
+            "start": 1634846400,
+            "state": "pending",
+            "title": "Buy 10 GAWDS at floor or mint"
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "__typename": "Proposal",
