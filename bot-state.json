@@ -1,5 +1,5 @@
 {
-    "last_update": 1634792599,
+    "last_update": 1634793250,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -31,6 +31,10 @@
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
             "hash": "abb9dadde99c2bcc48f40cc639d9db3ba461874fa8a214b4946eb426",
+            "sent": true
+        },
+        "QmQjm3BrhDzNHxJpF9dk6C1cqPy3dSotREPbh6XB7JLjEE": {
+            "hash": "7b387fa276f9632960a9a69068aaff2c307c4319d057012a51f126b5",
             "sent": true
         },
         "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
@@ -314,6 +318,23 @@
             "start": 1626948000,
             "state": "closed",
             "title": "Reimburse gas fees to everyone involved in sending JANKY HEIST nfts to CrisisDAO. "
+        },
+        "QmQjm3BrhDzNHxJpF9dk6C1cqPy3dSotREPbh6XB7JLjEE": {
+            "__typename": "Proposal",
+            "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "body": "This proposal allocates 0.8 ETH + gas to a member to mint 10 GAWDS at a mint price of 0.08 ETH each.\n\nGawds https://www.gawds.xyz/ is a high-quality NFT series utilizing holographic art that can be viewed on a 3D-capable display like a Looking Glass.  I also find the community to be fun and positive and the art to be well crafted and unique\n\nNote: JamieW is a member of the Crisis Discord, but I am proposing this without any prompting. \nDisclosure: I hold 1 GAWDS. I have no plans to sell it.",
+            "choices": [
+                "Yes.",
+                "No.",
+                "Abstain."
+            ],
+            "created": 1634793007,
+            "end": 1635055200,
+            "id": "QmQjm3BrhDzNHxJpF9dk6C1cqPy3dSotREPbh6XB7JLjEE",
+            "snapshot": "13459042",
+            "start": 1634796000,
+            "state": "pending",
+            "title": "Purchase 10 GAWDS at mint"
         },
         "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
             "__typename": "Proposal",
