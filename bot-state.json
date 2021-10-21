@@ -1,5 +1,5 @@
 {
-    "last_update": 1634845904,
+    "last_update": 1634846402,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -30,7 +30,7 @@
             "sent": true
         },
         "QmPvaH4nLe8ZH1g5qAMf5Xubpne5PiXpebwsQkHeGBeGaT": {
-            "hash": "bea18cd66039948042300df07225a9adceae8b4fa8dcd20f65b4ca09",
+            "hash": "2a2dd9962e5f8bf1c9c021171b4a27abd4f90b7db967635bebd640ee",
             "sent": true
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
@@ -321,7 +321,7 @@
             "id": "QmPvaH4nLe8ZH1g5qAMf5Xubpne5PiXpebwsQkHeGBeGaT",
             "snapshot": "13462906",
             "start": 1634846400,
-            "state": "pending",
+            "state": "active",
             "title": "Buy 10 GAWDS at floor or mint"
         },
         "QmQfnsuA46ntKf7t9vzDyNdRscTWPff9MPRywfDth9n17v": {
