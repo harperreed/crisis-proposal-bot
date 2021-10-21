@@ -1,5 +1,5 @@
 {
-    "last_update": 1634795889,
+    "last_update": 1634796524,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -34,7 +34,7 @@
             "sent": true
         },
         "QmQjm3BrhDzNHxJpF9dk6C1cqPy3dSotREPbh6XB7JLjEE": {
-            "hash": "7b387fa276f9632960a9a69068aaff2c307c4319d057012a51f126b5",
+            "hash": "c96c9c893a0825cd827657b995bae5191e27338c08e82ae2e46c5594",
             "sent": true
         },
         "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
@@ -333,7 +333,7 @@
             "id": "QmQjm3BrhDzNHxJpF9dk6C1cqPy3dSotREPbh6XB7JLjEE",
             "snapshot": "13459042",
             "start": 1634796000,
-            "state": "pending",
+            "state": "active",
             "title": "Purchase 10 GAWDS at mint"
         },
         "QmQpbaUqMQxEMxWwnxMNikj5JQHAih6fK7b5LoXa7xFCS1": {
