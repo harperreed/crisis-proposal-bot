@@ -1,5 +1,5 @@
 {
-    "last_update": 1635179365,
+    "last_update": 1635180423,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -57,6 +57,10 @@
             "hash": "9386e5c4208337b9c5ffe6b22647201060bde6a329c2a389d58c2ba9",
             "sent": true
         },
+        "QmRiSzady74V8PYkRCi8zEhn8EM2yVGSN1raa19DvHdssF": {
+            "hash": "043af5f2e3a87dbc6e89af93539527e137e17c96d197b79175dd9408",
+            "sent": true
+        },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
             "hash": "0a55c60d375a59fdcebd7e15709fc54113e65082b0457537fa259792",
             "sent": true
@@ -99,6 +103,10 @@
         },
         "QmVA993zzqQvurt4GPqzwdJnf3jphVjmPPh1E3N9sT4wnv": {
             "hash": "0fe1b9b7703f447f5190c04effd4f7abbb7976cfe05e2c94c60200a5",
+            "sent": true
+        },
+        "QmVAtrwjJz3ACiZNZNwwEXMWhyvu4jbwrujpukSyQ3nt3s": {
+            "hash": "1373eeabdcca9f15161c3ca4c45e695b8f2a1913d607c11dda797942",
             "sent": true
         },
         "QmVmBmFYSRRMrPSnvD2CVckQUuvQ2AY2HCNs1qzzCVn7b3": {
@@ -423,6 +431,23 @@
             "state": "closed",
             "title": "FAST BUY: 3 ETH worth of Punk Cats"
         },
+        "QmRiSzady74V8PYkRCi8zEhn8EM2yVGSN1raa19DvHdssF": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Allocate 6.5ETH + gas to purchase a CrypToadz and then mint the matching CryptoFlyz and any other companion NFT.\n\nCrypToadz is a blue-chip NFT that has continued to hold value and is rumored to have a high upside through auctions and other actions.\n\nStrong community, lots of \"influencer\" owners, and steady floor make this a potential strong purchase.",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1635179772,
+            "end": 1635447600,
+            "id": "QmRiSzady74V8PYkRCi8zEhn8EM2yVGSN1raa19DvHdssF",
+            "snapshot": "13487695",
+            "start": 1635180000,
+            "state": "active",
+            "title": "Purchase a CrypToadz"
+        },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
             "__typename": "Proposal",
             "author": "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
@@ -603,6 +628,23 @@
             "start": 1626728400,
             "state": "closed",
             "title": "Create Derivative Works of CrisisDAO NFT"
+        },
+        "QmVAtrwjJz3ACiZNZNwwEXMWhyvu4jbwrujpukSyQ3nt3s": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "I propose we create a committee that will:\n\n* determine when to sell assets;\n* determine what assets to sell;  and\n* handle the sale of the assets.\n\nThis committee will have a minimum of three people on it, who will commit to monitoring the discords, Twitter, and other accounts that drive signal for the assets owned by the DAO. They will also propose the usage and/or creation of any tools to assist in the determination of optimum time to sell.\n\nThis committee will also be created with the understanding that much of this is experimentation and they will often be wrong in their assessment. To this end, the entire DAO membership will support the committee with information as appropriate. \n\nIf the DAO decides that such a committee is warranted, we will ask for volunteers and/or nominations to join the committee, and float a proposal to accept those individuals on the committee.",
+            "choices": [
+                "Let's do it!",
+                "Nah, it's fine as it is",
+                "Abstain"
+            ],
+            "created": 1635179472,
+            "end": 1635447600,
+            "id": "QmVAtrwjJz3ACiZNZNwwEXMWhyvu4jbwrujpukSyQ3nt3s",
+            "snapshot": "13487651",
+            "start": 1635179700,
+            "state": "active",
+            "title": "Create a \"Sales\" Committee"
         },
         "QmVmBmFYSRRMrPSnvD2CVckQUuvQ2AY2HCNs1qzzCVn7b3": {
             "__typename": "Proposal",
