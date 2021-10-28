@@ -1,5 +1,5 @@
 {
-    "last_update": 1635447553,
+    "last_update": 1635448177,
     "notifications": {
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
@@ -58,7 +58,7 @@
             "sent": true
         },
         "QmRiSzady74V8PYkRCi8zEhn8EM2yVGSN1raa19DvHdssF": {
-            "hash": "043af5f2e3a87dbc6e89af93539527e137e17c96d197b79175dd9408",
+            "hash": "e97b12aff72e8aff3216f4e7bc1b64140f2e73736523ae37293e9cd3",
             "sent": true
         },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
@@ -106,7 +106,7 @@
             "sent": true
         },
         "QmVAtrwjJz3ACiZNZNwwEXMWhyvu4jbwrujpukSyQ3nt3s": {
-            "hash": "1373eeabdcca9f15161c3ca4c45e695b8f2a1913d607c11dda797942",
+            "hash": "f65830e4d71b2d80484d17d3c5e3dffc5295d5e583351e22aa47cb24",
             "sent": true
         },
         "QmVmBmFYSRRMrPSnvD2CVckQUuvQ2AY2HCNs1qzzCVn7b3": {
@@ -445,7 +445,7 @@
             "id": "QmRiSzady74V8PYkRCi8zEhn8EM2yVGSN1raa19DvHdssF",
             "snapshot": "13487695",
             "start": 1635180000,
-            "state": "active",
+            "state": "closed",
             "title": "Purchase a CrypToadz"
         },
         "QmRo4qKUUZrrWugBUt8TbbtL5EqGiQGBXdBpo76imb1SQK": {
@@ -643,7 +643,7 @@
             "id": "QmVAtrwjJz3ACiZNZNwwEXMWhyvu4jbwrujpukSyQ3nt3s",
             "snapshot": "13487651",
             "start": 1635179700,
-            "state": "active",
+            "state": "closed",
             "title": "Create a \"Sales\" Committee"
         },
         "QmVmBmFYSRRMrPSnvD2CVckQUuvQ2AY2HCNs1qzzCVn7b3": {
