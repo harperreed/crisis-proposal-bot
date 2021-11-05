@@ -1,6 +1,10 @@
 {
-    "last_update": 1636146220,
+    "last_update": 1636146878,
     "notifications": {
+        "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
+            "hash": "de8d62fa243c8c1884ce045ed6cc4a2f3e459ee51b55f4a97c41b60e",
+            "sent": true
+        },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "hash": "0abe690b677dcce1d0c584b0705a97309a3902336f6a13717aefbded",
             "sent": true
@@ -199,6 +203,23 @@
         }
     },
     "proposals": {
+        "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Allocate 6.5ETH + gas to purchase a CrypToadz and then mint the matching CryptoFlyz and any other companion NFT.\n\nCrypToadz is a blue-chip NFT that has continued to hold value and is rumored to have a high upside through auctions and other actions.\n\nStrong community, lots of \"influencer\" owners, and steady floor make this a potential strong purchase.",
+            "choices": [
+                "YES, please",
+                "NO, thank you",
+                "ABSTAIN, \u00af\\_(\u30c4)_/\u00af "
+            ],
+            "created": 1636146368,
+            "end": 1636574400,
+            "id": "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c",
+            "snapshot": "13558898",
+            "start": 1636103160,
+            "state": "active",
+            "title": "Buy a CrypToadz"
+        },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "__typename": "Proposal",
             "author": "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
