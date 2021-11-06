@@ -1,6 +1,10 @@
 {
-    "last_update": 1636201444,
+    "last_update": 1636202419,
     "notifications": {
+        "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
+            "hash": "828fa9dfe78d6a8375ea2bb116cab9d55963fc1bb70ba5d6535e427c",
+            "sent": true
+        },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "hash": "de8d62fa243c8c1884ce045ed6cc4a2f3e459ee51b55f4a97c41b60e",
             "sent": true
@@ -203,6 +207,23 @@
         }
     },
     "proposals": {
+        "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "https://opensea.io/assets/0x47e22659d9ae152975e6cbfa2eed5dc8b75ac545/1\nCreated by pplpleasr, the artist who defined the aesthetic of the \u201cdecentralized finance\u201d movement. It's currently trading near 3 ETH. We can probably win one if we put in 2.8 ETH, and if we win, set it to sell at 20 ETH and just leave it till the next bull run.\n",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1636202101,
+            "end": 1636542000,
+            "id": "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114",
+            "snapshot": "13562956",
+            "start": 1636196400,
+            "state": "active",
+            "title": "Wrap 2.8ETH to make an offer on 1 Fortune Magazine's Aspiring Chad NFT"
+        },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "__typename": "Proposal",
             "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
