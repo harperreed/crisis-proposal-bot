@@ -1,12 +1,12 @@
 {
-    "last_update": 1636574348,
+    "last_update": 1636574967,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
             "sent": true
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
-            "hash": "de8d62fa243c8c1884ce045ed6cc4a2f3e459ee51b55f4a97c41b60e",
+            "hash": "4f5060f57e6e1113f5ba71b37f8755ed199899558bbddb1ec6141348",
             "sent": true
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
@@ -238,7 +238,7 @@
             "id": "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c",
             "snapshot": "13558898",
             "start": 1636103160,
-            "state": "active",
+            "state": "closed",
             "title": "Buy a CrypToadz"
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
