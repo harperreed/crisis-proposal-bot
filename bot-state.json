@@ -1,8 +1,8 @@
 {
-    "last_update": 1636541714,
+    "last_update": 1636542257,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
-            "hash": "828fa9dfe78d6a8375ea2bb116cab9d55963fc1bb70ba5d6535e427c",
+            "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
             "sent": true
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
@@ -221,7 +221,7 @@
             "id": "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114",
             "snapshot": "13562956",
             "start": 1636196400,
-            "state": "active",
+            "state": "closed",
             "title": "Wrap 2.8ETH to make an offer on 1 Fortune Magazine's Aspiring Chad NFT"
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
