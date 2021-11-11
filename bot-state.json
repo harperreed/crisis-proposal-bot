@@ -1,5 +1,5 @@
 {
-    "last_update": 1636661885,
+    "last_update": 1636662608,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -7,6 +7,10 @@
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "hash": "4f5060f57e6e1113f5ba71b37f8755ed199899558bbddb1ec6141348",
+            "sent": true
+        },
+        "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
+            "hash": "d8cd945f2b6877afa93e40151fecece142babe6d638f6896f3ad3d42",
             "sent": true
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
@@ -240,6 +244,23 @@
             "start": 1636103160,
             "state": "closed",
             "title": "Buy a CrypToadz"
+        },
+        "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "When we started CrisisDAO, the thought was to run an epoch that would conclude 12/31/21, and assess where we stood, and make a decision as to continuation. \n\nAccording to our documents:\n\n\u201cThe first epoch of this DAO is until the end of 2021. If by the end of 2021, we have lost money, we can sell and tax harvest our losses. If we have gains, we can propose taking the gains on 1/1 or continuing the DAO. We will put up the continuation of the DAO as a proposal at EOY\u201d\n\nWe have not incurred a loss, therefore, this proposal is to determine if we \"take the gains on 1/1/22\" or continue the DAO.\n\nPoints to consider:\n1) There is an ongoing discussion about how to execute a rage quit function (enable a member of the DAO to leave by their own choosing). This is separate from this discussion and is occurring in the discord. \n2) \"Gains\" and distribution still need to be determined (timing, how to limit a run on the treasury, how to liquidate assets, etc.)\n3) Continuing the DAO would mean that there would be no distribution, and a rage quit policy would be put into place prior to the end of the year.\n\nConsidering this may create significant discussion, we have extended the voting period to the end of next week.",
+            "choices": [
+                "Take the Gains",
+                "Continue the DAO",
+                "Abstain"
+            ],
+            "created": 1636662583,
+            "end": 1637352000,
+            "id": "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1",
+            "snapshot": "13596991",
+            "start": 1636662600,
+            "state": "active",
+            "title": "How Do We Handle The End of Epoch 1?"
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "__typename": "Proposal",
