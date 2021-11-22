@@ -1,5 +1,5 @@
 {
-    "last_update": 1637610857,
+    "last_update": 1637611382,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -14,7 +14,7 @@
             "sent": true
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
-            "hash": "c695b156b5fe316cd4a00f4e9bba188469b13a949ba86bd876b09163",
+            "hash": "222a6ddba7062091a575f2226d60c114440f5f059052ca1cc71f9bfd",
             "sent": true
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
@@ -280,7 +280,7 @@
             "id": "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21",
             "snapshot": "13665419",
             "start": 1637611200,
-            "state": "pending",
+            "state": "active",
             "title": "Proposal: DeadFellaz"
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
