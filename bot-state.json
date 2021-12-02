@@ -1,5 +1,5 @@
 {
-    "last_update": 1638474357,
+    "last_update": 1638474849,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -7,6 +7,10 @@
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "hash": "4f5060f57e6e1113f5ba71b37f8755ed199899558bbddb1ec6141348",
+            "sent": true
+        },
+        "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
+            "hash": "e01b566e73c4930c694610ed8f8696201f6e4e72bcd99f422ce1d915",
             "sent": true
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
@@ -252,6 +256,23 @@
             "start": 1636103160,
             "state": "closed",
             "title": "Buy a CrypToadz"
+        },
+        "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
+            "__typename": "Proposal",
+            "author": "0xECaA643997033B1bA605D32748cfE9bdAd141880",
+            "body": "CrypToadz are cheap and Ethereum is expensive. I predict this will fluctuate over the next few weeks.\n\nThe CrypToadz floor has been moving between 3.2 and 4.2 ETH over the past week or two, currently ~3.3 at the time of this proposal.\n\nI propose we spend up to 35 ETH sweeping the floor, and immediately re-listing them at a 40% profit (list price may be reevaluated as the floor rises to remain competitive).\n\nAlso, instead of buying at the list price we can submit offers for the bottom 15 at 0.1 ETH less than list to try to save ourselves 1 ETH.\n\nCrypToadz has a very strong community and CRISIS already owns 1 CrypToad. After purchasing we experienced the best engagement on Twitter after tweeting about it (5 comments, 7 retweets, 74 likes.)",
+            "choices": [
+                "For",
+                "Against",
+                "Abstain"
+            ],
+            "created": 1638474441,
+            "end": 1638648000,
+            "id": "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279",
+            "snapshot": "13729207",
+            "start": 1638446400,
+            "state": "active",
+            "title": "Sweep the CrypToadz floor up to 35 ETH (~10 NFT)"
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
             "__typename": "Proposal",
