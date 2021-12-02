@@ -1,5 +1,5 @@
 {
-    "last_update": 1638481757,
+    "last_update": 1638482255,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -19,6 +19,10 @@
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
             "hash": "0118a1be86b722a58a547c8e87f623f340eee953e21b86c7f3e30091",
+            "sent": true
+        },
+        "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc": {
+            "hash": "432e64fd75111a1c061309cd37af1dfe9343bf16a5a405b2e0ae19df",
             "sent": true
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
@@ -307,6 +311,23 @@
             "start": 1638259200,
             "state": "closed",
             "title": "NFT Worlds - the Minecraft Metaverse"
+        },
+        "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "This proposal covers the path to exit the DAO and receive back some sort of payment of ETH (amount varies).\n\nTo be clear, this covers any reason one person has to exit the DAO. There is no assumed intent behind or ill-will because of the exit. Any person who exits the DAO without causing intentional harm will be welcomed in the Discord and will hopefully continue to participate in our community.\n\nAdditionally, one does not have to exit the DAO to stop participating. If someone decides to stop participating, we ask that they delegate their tokens for voting so that we are still able to reach quorum.\n\nAs for how to exit the DAO:\n\n1. Any member may take steps to leave the DAO at any time by filling out a form indicating they wish to sell their tokens. They will then be on a list for this process.\n2. An incoming new CrisisDAO member or existing members who want to purchase additional $CRISIS will be directed to the list. Sellers can use Airswap.io or another tool of their choosing to facilitate the sale of $CRISIS tokens to the incoming or existing member. This will be done via a buy-sell channel.\n3. At the outgoing member's discretion, if there are no new member inflows, they can request the DAO to act as a buyer of last resort for their tokens. The DAO will then repurchase their tokens for the token holder's pro-rata share of liquid tokens (ETH, WETH, and stablecoins) in the DAO treasury via proposal. (Like Flamingo DAO)\n4. DAO members who leave in good standing will still have access to the discord.",
+            "choices": [
+                "FOR",
+                "AGAINST",
+                "ABSTAIN"
+            ],
+            "created": 1638482143,
+            "end": 1638907200,
+            "id": "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc",
+            "snapshot": "13729746",
+            "start": 1638475200,
+            "state": "active",
+            "title": "How Does One Exit The DAO?"
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
             "__typename": "Proposal",
