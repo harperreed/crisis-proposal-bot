@@ -1,5 +1,5 @@
 {
-    "last_update": 1638482255,
+    "last_update": 1638482875,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -7,6 +7,10 @@
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "hash": "4f5060f57e6e1113f5ba71b37f8755ed199899558bbddb1ec6141348",
+            "sent": true
+        },
+        "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69": {
+            "hash": "2a976444e0a2c5bbccef1453a8c077f7582bd531abccfb57e2338fc0",
             "sent": true
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
@@ -260,6 +264,23 @@
             "start": 1636103160,
             "state": "closed",
             "title": "Buy a CrypToadz"
+        },
+        "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "This proposal suggests that we amend the charter to allow for a 24 hour cool down period post a proposal passing to allow people who disagree strongly with the proposal the option to exit the DAO (assuming the exit proposal passes. If it does not, then this proposal is automatically voided and resubmitted post passage of the exit proposal).\n\nIf a person decides that a proposal is the cause of their decision to exit the DAO, they will still be considered a member of the discord and the community, unless they intentionally harm one or the other.\n\nThis would be labeled Amendment 1.",
+            "choices": [
+                "FOR",
+                "AGAINST",
+                "ABSTAIN"
+            ],
+            "created": 1638482456,
+            "end": 1638907200,
+            "id": "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69",
+            "snapshot": "13729781",
+            "start": 1638475200,
+            "state": "active",
+            "title": "Adding a \"Cool Down\" Period to Proposals"
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
             "__typename": "Proposal",
