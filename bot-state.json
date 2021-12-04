@@ -1,5 +1,5 @@
 {
-    "last_update": 1638647972,
+    "last_update": 1638648594,
     "notifications": {
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
@@ -14,7 +14,7 @@
             "sent": true
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
-            "hash": "e01b566e73c4930c694610ed8f8696201f6e4e72bcd99f422ce1d915",
+            "hash": "c02ff56a8f2cdd260a335bee843e9dd08606e490224e3b310ba52ec1",
             "sent": true
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
@@ -296,7 +296,7 @@
             "id": "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279",
             "snapshot": "13729207",
             "start": 1638446400,
-            "state": "active",
+            "state": "closed",
             "title": "Sweep the CrypToadz floor up to 35 ETH (~10 NFT)"
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
