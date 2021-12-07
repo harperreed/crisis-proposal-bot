@@ -1,6 +1,10 @@
 {
-    "last_update": 1638891274,
+    "last_update": 1638891955,
     "notifications": {
+        "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
+            "hash": "e3e7a4bbdd085671b6aa0082aee40fbbedebda4b64ceb49820f323fe",
+            "sent": true
+        },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
             "sent": true
@@ -231,6 +235,22 @@
         }
     },
     "proposals": {
+        "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
+            "__typename": "Proposal",
+            "author": "0x58F43Fa86CA2fe318dDa7977391554A01133305b",
+            "body": "$CRISIS currently owns 10 Toadz. There is a derivative project with great art and a solid community called CROAKZ that will be minting December 11th, 2021 at a cost of 0.069 ETH per CROAKZ. There is a 1:1 minting, which would allow $CRISIS to mint 10 CROAKZ.\n\nVoting yes on this proposal will approve up to 1 ETH for minting 10 CROAKZ.",
+            "choices": [
+                "Yes, mint CROAKZ",
+                "No, do not mint"
+            ],
+            "created": 1638891273,
+            "end": 1639188000,
+            "id": "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda",
+            "snapshot": "13756800",
+            "start": 1638900000,
+            "state": "pending",
+            "title": "Mint CROAKZ for our Toadz"
+        },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "__typename": "Proposal",
             "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
