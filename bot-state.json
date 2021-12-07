@@ -1,5 +1,5 @@
 {
-    "last_update": 1638919304,
+    "last_update": 1638919971,
     "notifications": {
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
             "hash": "d006e5bc9e71a044912517747755f693f5c6890f17febcd77e689783",
@@ -11,6 +11,10 @@
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
             "hash": "52df632c0e884c3652d50bbf3e88e8ba54401ed5315fe4031b61ef29",
+            "sent": true
+        },
+        "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
+            "hash": "cc89ee5c272e966c34b1974a3b31d2184129de0f21134dc6729ba779",
             "sent": true
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
@@ -287,6 +291,22 @@
             "start": 1638900000,
             "state": "active",
             "title": "HODL 3 CrypToadz"
+        },
+        "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
+            "__typename": "Proposal",
+            "author": "0x58F43Fa86CA2fe318dDa7977391554A01133305b",
+            "body": "$CRISIS currently holds 10 CrypToadz. The CROAKZ project is allowing CrypToadz holders to mint 1 CROAKZ for each CrypToadz held. Minting starts December 11th, 2021 (https://twitter.com/CROAKZ_/status/1464804184310484997) for a minting fee of 0.069.\n\nThis proposal, if approved, would allocate up to 0.69 ETH to mint up to 10 CROAKZ. Any unused ETH will be returned to the treasury. No CROAKZ will be minted for CrypToadz that are sold prior to the CROAKZ minting date.\n\nAll CROAKZ minted will be listed within 72 hours of minting for 2x the minting cost (0.138 ETH).",
+            "choices": [
+                "Yes, mint CROAKZ",
+                "No"
+            ],
+            "created": 1638919631,
+            "end": 1639245600,
+            "id": "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f",
+            "snapshot": "13761379",
+            "start": 1638900000,
+            "state": "active",
+            "title": "Allocate 0.69 ETH to Mint and Flip CROAKZ"
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
             "__typename": "Proposal",
