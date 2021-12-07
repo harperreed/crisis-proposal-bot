@@ -1,5 +1,5 @@
 {
-    "last_update": 1638907095,
+    "last_update": 1638907719,
     "notifications": {
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
             "hash": "d006e5bc9e71a044912517747755f693f5c6890f17febcd77e689783",
@@ -34,7 +34,7 @@
             "sent": true
         },
         "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc": {
-            "hash": "432e64fd75111a1c061309cd37af1dfe9343bf16a5a405b2e0ae19df",
+            "hash": "1c638236310a29f59231c0914a26911fdb1ac617c7cdd63fabb4c126",
             "sent": true
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
@@ -387,7 +387,7 @@
             "id": "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc",
             "snapshot": "13729746",
             "start": 1638475200,
-            "state": "active",
+            "state": "closed",
             "title": "How Does One Exit The DAO?"
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
