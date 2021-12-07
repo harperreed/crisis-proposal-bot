@@ -1,5 +1,5 @@
 {
-    "last_update": 1638919971,
+    "last_update": 1638920562,
     "notifications": {
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
             "hash": "d006e5bc9e71a044912517747755f693f5c6890f17febcd77e689783",
@@ -23,6 +23,10 @@
         },
         "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69": {
             "hash": "2a976444e0a2c5bbccef1453a8c077f7582bd531abccfb57e2338fc0",
+            "sent": true
+        },
+        "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94": {
+            "hash": "7bba2b1ce2f78918140a57eb2bde0d5cc78a24b748601c861848398b",
             "sent": true
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
@@ -341,6 +345,22 @@
             "start": 1638475200,
             "state": "active",
             "title": "Adding a \"Cool Down\" Period to Proposals"
+        },
+        "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94": {
+            "__typename": "Proposal",
+            "author": "0x58F43Fa86CA2fe318dDa7977391554A01133305b",
+            "body": "Coinbase is working on an NFT platform and recently tweeted \"~vibes incoming~\" (https://twitter.com/coinbase/status/1466906017120153601), which is a reference to the CrypToadz community. The original CrypToadz proposal approved 35 ETH to sweep the floor and then immediately re-list at +40% \n\nThis proposal suggests changing that strategy in the following ways:\n\n1. We hold back CrypToadz #5668, #5879, and #2560 from re-listing for the 90 days proceeding this approval if approved *unless* Coinbase releases their NFT platform *or* CrypToadz is listed on Christie's, whichever comes first.\n\n2. If Coinbase releases their NFT platform *or* CrypToadz is listed on Christie's within 90 days, CrypToadz #5668, #5879, and #2560 will be listed within 72 hours at +40% of the floor price.\n\n3. If after 90 days Coinbase has not launched their NFT platform, and Christie's has not listed CrypToadz, these 3 CrypToadz will be re-listed at +40% of the CrypToadz floor price on OpenSea.",
+            "choices": [
+                "Yes, HODL these 3 CrypToadz",
+                "No, list them all and move on"
+            ],
+            "created": 1638920493,
+            "end": 1639504800,
+            "id": "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94",
+            "snapshot": "13761373",
+            "start": 1638900000,
+            "state": "active",
+            "title": "HODL CrypToadz #5668, #5879, and #2560"
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
             "__typename": "Proposal",
