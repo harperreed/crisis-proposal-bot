@@ -1,8 +1,8 @@
 {
-    "last_update": 1638899836,
+    "last_update": 1638900448,
     "notifications": {
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
-            "hash": "e3e7a4bbdd085671b6aa0082aee40fbbedebda4b64ceb49820f323fe",
+            "hash": "d006e5bc9e71a044912517747755f693f5c6890f17febcd77e689783",
             "sent": true
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
@@ -10,7 +10,7 @@
             "sent": true
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
-            "hash": "88e53bd25071b0ee25a209bc0505e91ea1a7c87cc07517dd1b79afc0",
+            "hash": "52df632c0e884c3652d50bbf3e88e8ba54401ed5315fe4031b61ef29",
             "sent": true
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
@@ -252,7 +252,7 @@
             "id": "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda",
             "snapshot": "13756800",
             "start": 1638900000,
-            "state": "pending",
+            "state": "active",
             "title": "Mint CROAKZ for our Toadz"
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
@@ -285,7 +285,7 @@
             "id": "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7",
             "snapshot": "13759355",
             "start": 1638900000,
-            "state": "pending",
+            "state": "active",
             "title": "HODL 3 CrypToadz"
         },
         "0x75c2e48f12744d395de4b33fd21702363f7184828caf7850cd9d232a76e1713c": {
