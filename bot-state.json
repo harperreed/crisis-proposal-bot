@@ -1,8 +1,8 @@
 {
-    "last_update": 1639245467,
+    "last_update": 1639246079,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
-            "hash": "fdd80382fef905e91feea6c53171f20000749e77d20f5386e2350e56",
+            "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
             "sent": true
         },
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
@@ -264,7 +264,7 @@
             "id": "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9",
             "snapshot": "13761492",
             "start": 1638900000,
-            "state": "active",
+            "state": "closed",
             "title": "Allocate up to 0.9 ETH to Mint and Flip CROAKZ"
         },
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
