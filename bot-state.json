@@ -1,5 +1,5 @@
 {
-    "last_update": 1639270802,
+    "last_update": 1639272747,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -11,6 +11,10 @@
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
+            "sent": true
+        },
+        "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
+            "hash": "97d349ccb30ffb5d24ea7614ffc489c7e32a34c3aea0d2733b5e6457",
             "sent": true
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
@@ -299,6 +303,23 @@
             "start": 1636196400,
             "state": "closed",
             "title": "Wrap 2.8ETH to make an offer on 1 Fortune Magazine's Aspiring Chad NFT"
+        },
+        "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Currently Croakz are listed at a 0.23ETH floor, and we own three. By listing one at 0.26ETH (or floor, whichever is higher), we could recoup 100% of the cost of acquiring 3 Croaks (0.69ETH+ gas)\n\nThis proposal covers listing and selling one Croakz to recoup costs.",
+            "choices": [
+                "YES",
+                "NO",
+                "ABSTAIN"
+            ],
+            "created": 1639271210,
+            "end": 1639490400,
+            "id": "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3",
+            "snapshot": "13787275",
+            "start": 1639252800,
+            "state": "active",
+            "title": "Sell one Croakz to Recoup 100% of costs"
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
             "__typename": "Proposal",
