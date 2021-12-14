@@ -1,5 +1,5 @@
 {
-    "last_update": 1639504399,
+    "last_update": 1639504902,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -38,7 +38,7 @@
             "sent": true
         },
         "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94": {
-            "hash": "7bba2b1ce2f78918140a57eb2bde0d5cc78a24b748601c861848398b",
+            "hash": "ce4ef0e63a165693fa1c9a5884db82c3613c7e4a88d85bc291ba5113",
             "sent": true
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
@@ -422,7 +422,7 @@
             "id": "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94",
             "snapshot": "13761373",
             "start": 1638900000,
-            "state": "active",
+            "state": "closed",
             "title": "HODL CrypToadz #5668, #5879, and #2560"
         },
         "0x972dcd997cb1b0f825966ad50b7ff02fc9e1d8cb689b42c4beea587500eb2279": {
