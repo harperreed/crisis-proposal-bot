@@ -1,5 +1,5 @@
 {
-    "last_update": 1639497566,
+    "last_update": 1639498195,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -34,7 +34,7 @@
             "sent": true
         },
         "0x8538ad9a756f168f18a1c9791d1e02f7e68d865309de58df67e008877e188ab7": {
-            "hash": "51fabd4df43b3cb1db27cc44e99bb07c4cf0f510e9695e4c524bac08",
+            "hash": "9b5b67b876e50e7475e8ed968764bd8df8278197fefa7c779cc49d23",
             "sent": true
         },
         "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94": {
@@ -406,7 +406,7 @@
             "id": "0x8538ad9a756f168f18a1c9791d1e02f7e68d865309de58df67e008877e188ab7",
             "snapshot": "13788090",
             "start": 1639252800,
-            "state": "active",
+            "state": "closed",
             "title": "Sell One Croakz to recoup 100% of costs"
         },
         "0x915e3e0788644890444660486a3fca6c25998d3bbad0f9a81b39f76e691a2a94": {
