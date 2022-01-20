@@ -1,5 +1,5 @@
 {
-    "last_update": 1642692378,
+    "last_update": 1642692983,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -55,6 +55,10 @@
         },
         "0xe26906550dcd21d70d0219ae2b79062157737a9efec7c5681f3b58be80dfeddc": {
             "hash": "1c638236310a29f59231c0914a26911fdb1ac617c7cdd63fabb4c126",
+            "sent": true
+        },
+        "0xe58aaf5fbf2ff89fa8358f959a1c26f68e397aad7edd39c028ef8b2174222409": {
+            "hash": "81362f245bd589b2165e9b9d9847d94109b94ba848380eda42bd87d7",
             "sent": true
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
@@ -492,6 +496,23 @@
             "start": 1638475200,
             "state": "closed",
             "title": "How Does One Exit The DAO?"
+        },
+        "0xe58aaf5fbf2ff89fa8358f959a1c26f68e397aad7edd39c028ef8b2174222409": {
+            "__typename": "Proposal",
+            "author": "0x939120EC81c23495EC4FeFd01adA0BAA1ced095a",
+            "body": "Current floor at time of writing is 9.88 ETH. Owning a Doodle can provide the following benefits for us:\n\n- A blue chip token with promising outlook\n- Access to Doodle community\n- Awareness of and access to non-dilutive Doodlebank projects and their outcomes (e.g. https://forum.doodles.app/t/the-pixel-doodles/1408) \n- Legitimacy to create our own Doodle derivative project/collaboration\n- Some cool looking doods\n\nWe could also go for two? One to flip to recoup costs and one to hold?",
+            "choices": [
+                "Buy one dood",
+                "Buy two doods",
+                "Buy none"
+            ],
+            "created": 1642692853,
+            "end": 1643003940,
+            "id": "0xe58aaf5fbf2ff89fa8358f959a1c26f68e397aad7edd39c028ef8b2174222409",
+            "snapshot": "14043185",
+            "start": 1642701600,
+            "state": "pending",
+            "title": "Buy a doodle or two"
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
             "__typename": "Proposal",
