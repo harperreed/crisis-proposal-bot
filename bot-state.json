@@ -1,5 +1,5 @@
 {
-    "last_update": 1642698040,
+    "last_update": 1642698722,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -47,6 +47,10 @@
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
             "hash": "5d855f5a024f2525bbec0915897bb479bd436f15bd65badb1a75753e",
+            "sent": true
+        },
+        "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225": {
+            "hash": "9b853dbd5e07541b7cf7ddebaf707169806545309df854489645f4e8",
             "sent": true
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
@@ -462,6 +466,24 @@
             "start": 1636662600,
             "state": "closed",
             "title": "How Do We Handle The End of Epoch 1?"
+        },
+        "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225": {
+            "__typename": "Proposal",
+            "author": "0x939120EC81c23495EC4FeFd01adA0BAA1ced095a",
+            "body": "Current floor at time of writing is 10 ETH. Owning a Doodle can provide the following benefits for us:\n  - A blue chip token with promising outlook\n  - Access to Doodle community\n  - Awareness of and access to non-dilutive Doodlebank projects and \n  - their outcomes (e.g. https://forum.doodles.app/t/the-pixel- \n     doodles/1408)\n  - Legitimacy to create our own Doodle derivative \n    project/collaboration\n  - Some cool looking doods\n\nWe could also go for two. One to flip to recoup costs and one to hold.\n\nDoodles OS: https://opensea.io/collection/doodles-official",
+            "choices": [
+                "Buy one dood",
+                "Buy two doods",
+                "Buy none",
+                "ABSTAIN"
+            ],
+            "created": 1642698429,
+            "end": 1643003940,
+            "id": "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225",
+            "snapshot": "14043664",
+            "start": 1642698000,
+            "state": "active",
+            "title": "Buy a doodle or two"
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
             "__typename": "Proposal",
