@@ -1,5 +1,5 @@
 {
-    "last_update": 1643003642,
+    "last_update": 1643004169,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -50,7 +50,7 @@
             "sent": true
         },
         "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225": {
-            "hash": "9b853dbd5e07541b7cf7ddebaf707169806545309df854489645f4e8",
+            "hash": "093d7783650dfc7ad9104ffddf0b85f23066f1353b5694de9fd4c3b7",
             "sent": true
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
@@ -482,7 +482,7 @@
             "id": "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225",
             "snapshot": "14043664",
             "start": 1642698000,
-            "state": "active",
+            "state": "closed",
             "title": "Buy a doodle or two"
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
