@@ -1,5 +1,5 @@
 {
-    "last_update": 1643337664,
+    "last_update": 1643338368,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -19,6 +19,10 @@
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
             "hash": "52df632c0e884c3652d50bbf3e88e8ba54401ed5315fe4031b61ef29",
+            "sent": true
+        },
+        "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
+            "hash": "ecf331b8122908a7643b761019f590f1aaa971baf88b84405446b482",
             "sent": true
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
@@ -348,6 +352,22 @@
             "start": 1638900000,
             "state": "active",
             "title": "HODL 3 CrypToadz"
+        },
+        "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
+            "__typename": "Proposal",
+            "author": "0x8eA650D831EAcA6b84360fA9db45F481E0622A1f",
+            "body": "Pixels is a metaverse game where you can play as a supported NFT such as PixelBeasts.  They are minting 5000 pieces of land for their farm-simulator game.  The top 2000 wallets participating in pre-alpha \u201cplay-to-mint\u201d can mint two lands before the public sale.  Each land is 0.06.\n\nIf CrisisDAO member nullfame.eth (0x8eA650D831EAcA6b84360fA9db45F481E0622A1f) remains in the top 2000 (currently in the top 500), they will mint the two lands and transfer them to the CrisisDAO wallet.  CrisisDAO will reimburse nullfame.eth 0.12 for the land, the cost of gas for minting, and the cost of gas for transferring the tokens.\n\nThe pre-sale and public sale take place on January 31.  The snapshot to determine eligible wallets takes place on January 30.\n\n## Links\n* Pixels: [Pixels - Bring Your NFT\u2019s To Life](https://www.pixels.online/)\n* Pixels Minting Details: [Pixels - Whitelist](https://www.pixels.online/whitelist)",
+            "choices": [
+                "Yes, LFG",
+                "No, WTF"
+            ],
+            "created": 1643337866,
+            "end": 1643608740,
+            "id": "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71",
+            "snapshot": "14091162",
+            "start": 1643263200,
+            "state": "active",
+            "title": "Buy 2 Lands from Pixels at Mint Price + Gas"
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
             "__typename": "Proposal",
