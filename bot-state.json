@@ -1,5 +1,5 @@
 {
-    "last_update": 1643608522,
+    "last_update": 1643609331,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -22,7 +22,7 @@
             "sent": true
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
-            "hash": "ecf331b8122908a7643b761019f590f1aaa971baf88b84405446b482",
+            "hash": "1ae3acff3b562aa1fd8877b7eae9537445a371d8b20c095012f17941",
             "sent": true
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
@@ -366,7 +366,7 @@
             "id": "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71",
             "snapshot": "14091162",
             "start": 1643263200,
-            "state": "active",
+            "state": "closed",
             "title": "Buy 2 Lands from Pixels at Mint Price + Gas"
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
