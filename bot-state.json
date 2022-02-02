@@ -1,5 +1,5 @@
 {
-    "last_update": 1643778914,
+    "last_update": 1643779529,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -19,6 +19,10 @@
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
             "hash": "52df632c0e884c3652d50bbf3e88e8ba54401ed5315fe4031b61ef29",
+            "sent": true
+        },
+        "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
+            "hash": "867ffa0e64b3755d237677470168f1b4d52a5b87cd49734086bb514d",
             "sent": true
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
@@ -352,6 +356,23 @@
             "start": 1638900000,
             "state": "active",
             "title": "HODL 3 CrypToadz"
+        },
+        "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "As we look to potentially diversify our holdings, it is time to explore selling Dale. We purchased Dale at 9.9ETH, and the BAYC floor is currently 118ETH.\n\nThis proposal outlines the criteria and process for us to move forward with the sale of Dale.\n\nEach day, a CrisisDAO member will review the floor of BAYC, and using the simple calculation of 1.7 X FLOOR will list Dale for that amount. For example, at the current 118ETH floor, we would list Dale at 200.6ETH.\n\nIf you vote yes on this proposal, you are voting to execute the above strategy. \n\nNOTES:\n\nI have no clue how to actually list Dale from the Safe, and if we will need to hit the multisig every time we change the listing price. This will need to be explored.\n\nIf we cannot do it via the Safe, we will have to transfer Dale to the DAO hot wallet (which frankly freaks me out) or find an alternative solution. I do have extra ledgers, so perhaps that will work?\n\nThis proposal does not cover what we will do with the proceeds or how long we will keep Dale listed. ",
+            "choices": [
+                "BYE DALE",
+                "NO DALE IS MY BOY, BLUE",
+                "ABSTAIN"
+            ],
+            "created": 1643779060,
+            "end": 1644177600,
+            "id": "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e",
+            "snapshot": "14124665",
+            "start": 1643779080,
+            "state": "active",
+            "title": "Selling Dale"
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
             "__typename": "Proposal",
