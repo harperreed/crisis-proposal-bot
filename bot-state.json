@@ -1,5 +1,5 @@
 {
-    "last_update": 1644177217,
+    "last_update": 1644177843,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -22,7 +22,7 @@
             "sent": true
         },
         "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
-            "hash": "867ffa0e64b3755d237677470168f1b4d52a5b87cd49734086bb514d",
+            "hash": "6429b1c15126bdc194b4c6c46b12c8510a7f177a976b0c451b380e9a",
             "sent": true
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
@@ -371,7 +371,7 @@
             "id": "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e",
             "snapshot": "14124665",
             "start": 1643779080,
-            "state": "active",
+            "state": "closed",
             "title": "Selling Dale"
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
