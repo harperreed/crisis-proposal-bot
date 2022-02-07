@@ -1,5 +1,5 @@
 {
-    "last_update": 1644221699,
+    "last_update": 1644222506,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -7,6 +7,10 @@
         },
         "0x136098db89ef7f1e07580cdd737a30a9c207779f8d7c8aeebd425a7fbe26bdda": {
             "hash": "d006e5bc9e71a044912517747755f693f5c6890f17febcd77e689783",
+            "sent": true
+        },
+        "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4": {
+            "hash": "d916e798135483932f511348d08b9191b3d6f28da7c2f0b4d9c863ed",
             "sent": true
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
@@ -306,6 +310,25 @@
             "start": 1638900000,
             "state": "active",
             "title": "Mint CROAKZ for our Toadz"
+        },
+        "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "We have 79,819 WRLD in our wallet. Let's sell around 29K (or 2E worth of WRLD) and convert to ETH to recover cost. Then put the rest in the ETH/WRLD Uniswap pool https://info.uniswap.org/#/pools/0xeb5c52e8af57334fab0b5f3d888990c108545527",
+            "choices": [
+                "Yes to both. Sell $WRLD & do LP.",
+                "Yes to sell $WRLD only.",
+                "Do LP, but no sell $WRLD.",
+                "No to both. HODL!!!",
+                "Abstain"
+            ],
+            "created": 1644222289,
+            "end": 1644490800,
+            "id": "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4",
+            "snapshot": "14157807",
+            "start": 1644231600,
+            "state": "pending",
+            "title": "$WRLD is up 100%! Sell 2ETH worth of $WRLD to recover cost and put the rest in single sided LP"
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "__typename": "Proposal",
