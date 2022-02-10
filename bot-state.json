@@ -1,5 +1,5 @@
 {
-    "last_update": 1644490634,
+    "last_update": 1644491218,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -10,7 +10,7 @@
             "sent": true
         },
         "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4": {
-            "hash": "761978ff683c2981587d2301fc84469733e158e8dfdacd1e127e52fd",
+            "hash": "84baf55d436dd663b65cd33b35aad1ae6d0b2f33f005c3786fc931b3",
             "sent": true
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
@@ -327,7 +327,7 @@
             "id": "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4",
             "snapshot": "14157807",
             "start": 1644231600,
-            "state": "active",
+            "state": "closed",
             "title": "$WRLD is up 100%! Sell 2ETH worth of $WRLD to recover cost and put the rest in single sided LP"
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
