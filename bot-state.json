@@ -1,5 +1,5 @@
 {
-    "last_update": 1644786464,
+    "last_update": 1644787147,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -31,6 +31,10 @@
         },
         "0x596c024c8b2755821a8aaaa3c8d992254e292b6e3da503b8710fc2ec00a06b71": {
             "hash": "1ae3acff3b562aa1fd8877b7eae9537445a371d8b20c095012f17941",
+            "sent": true
+        },
+        "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082": {
+            "hash": "7c8d43175fcd644d5a06c6374f95331e11b0f9f126b7618bc2164ec3",
             "sent": true
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
@@ -412,6 +416,23 @@
             "start": 1643263200,
             "state": "closed",
             "title": "Buy 2 Lands from Pixels at Mint Price + Gas"
+        },
+        "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "CryptoPunks V1 is current at 9.3 Eth floor on LooksRare. https://looksrare.org/collections/0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D\n\nSean has explained about its significance and desirability. https://blog.seanbonner.com/2022/02/13/explaining-cryptopunks-versions/\n\nShould we buy one right now before they get re-listed on OpenSea? (We'll enlist Sean's expertise in ",
+            "choices": [
+                "YES! Get a floor punk!",
+                "NO!",
+                "Abstain"
+            ],
+            "created": 1644787046,
+            "end": 1645012800,
+            "id": "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082",
+            "snapshot": "14200158",
+            "start": 1644753600,
+            "state": "active",
+            "title": "Get a floor v1 Punk tomorrow! (If they're below 12 Eth)"
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
             "__typename": "Proposal",
