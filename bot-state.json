@@ -1,5 +1,5 @@
 {
-    "last_update": 1645012467,
+    "last_update": 1645013031,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -34,7 +34,7 @@
             "sent": true
         },
         "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082": {
-            "hash": "7c8d43175fcd644d5a06c6374f95331e11b0f9f126b7618bc2164ec3",
+            "hash": "32a322717741011db751fdf5b44ccf5ab3d8af9ff99159c300f2a437",
             "sent": true
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
@@ -431,7 +431,7 @@
             "id": "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082",
             "snapshot": "14200158",
             "start": 1644753600,
-            "state": "active",
+            "state": "closed",
             "title": "Get a floor v1 Punk tomorrow! (If they're below 12 Eth)"
         },
         "0x660ae235bab770046670723f59f0e2dc1bbb8d7dd801ed1d66c021797168fd6f": {
