@@ -1,5 +1,5 @@
 {
-    "last_update": 1645028173,
+    "last_update": 1645029134,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -11,6 +11,10 @@
         },
         "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4": {
             "hash": "84baf55d436dd663b65cd33b35aad1ae6d0b2f33f005c3786fc931b3",
+            "sent": true
+        },
+        "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
+            "hash": "3d2a18f39afcdbb85ab4aca5a1462cbb78d305b92985b476b9571b44",
             "sent": true
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
@@ -333,6 +337,23 @@
             "start": 1644231600,
             "state": "closed",
             "title": "$WRLD is up 100%! Sell 2ETH worth of $WRLD to recover cost and put the rest in single sided LP"
+        },
+        "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Recently, we got together as a DAO to review our team structure and decide if we should make any changes that would increase participation and expand the scope of what we get involved with. It was decided that a new structure could be effective in doing this.\n\nOur current team structure:\n\n* Membership\n* Operations\n* Scouting\n* Security\n* Charter\n\nProposed structure:\n\n**Research Team**\nFocuses on exploring opportunities for the DAO, which may include buying NFTs, gaming, investing in projects, building tools, etc. Will spin up \u201cworking groups\u201d for specific initiatives. These working groups will exist in finite time periods. (4-6 people)\n\n**Operations Team**\nFocuses on the operation of the DAO (current team stays)\n\n**Security Team**\nFocuses on the security of the DAO (current team stays)\n\n**Sales Team**\nFocuses on optimizing ROI of the DAO\u2019s assets (3-4 people)\nWe believe that this new structure will allow for flexibility of focus and increase opportunities to get involved.\n\nIf this passes, we will take volunteers for each new Team on a future proposal.\n\n\n",
+            "choices": [
+                "Yes, let's shake it up",
+                "No, leave it alone",
+                "abstain"
+            ],
+            "created": 1645028808,
+            "end": 1645287975,
+            "id": "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d",
+            "snapshot": "14218160",
+            "start": 1645028775,
+            "state": "active",
+            "title": "Changing Team Structure"
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "__typename": "Proposal",
