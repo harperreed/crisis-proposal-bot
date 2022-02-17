@@ -1,5 +1,5 @@
 {
-    "last_update": 1645136195,
+    "last_update": 1645136884,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -19,6 +19,10 @@
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
+            "sent": true
+        },
+        "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
+            "hash": "3fb76dec17d2406154a2ecedf6c5eb197870f5195e5b559c084913e5",
             "sent": true
         },
         "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
@@ -371,6 +375,23 @@
             "start": 1636196400,
             "state": "closed",
             "title": "Wrap 2.8ETH to make an offer on 1 Fortune Magazine's Aspiring Chad NFT"
+        },
+        "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
+            "__typename": "Proposal",
+            "author": "0x9a188C9b9fA408D47A97b90f5973170f81D2C196",
+            "body": "Allocate up to 3.5 Eth for the purchase of two CryptoBatz (current floor is 1.22 + gas), with the intention of mutating them with Dale and one of our Cryptoadz (free + gas).\n\nOn January 20th, Ozzy Osbourne released an NFT called CryptoBatz. (https://www.cryptobatz.com/) They presale-minted at .088 and had a public Dutch Auction at 1.666 that sold out quickly. Each CryptoBat will be able to mutate with BAYC, Cryptoadz and a few other blue chip projects that live in the same wallet. BAYC mutating begins Feb 20th and Cryptoadz on March 1st. \n",
+            "choices": [
+                "YES! Get 2 floor Batz & mutate",
+                "NO!",
+                "Abstain"
+            ],
+            "created": 1645136250,
+            "end": 1645395430,
+            "id": "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550",
+            "snapshot": "14225541",
+            "start": 1645136230,
+            "state": "active",
+            "title": "Buy 2 CryptoBatz and mint 2 MutantBatz."
         },
         "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
             "__typename": "Proposal",
