@@ -1,5 +1,5 @@
 {
-    "last_update": 1645395133,
+    "last_update": 1645395845,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -22,7 +22,7 @@
             "sent": true
         },
         "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
-            "hash": "3fb76dec17d2406154a2ecedf6c5eb197870f5195e5b559c084913e5",
+            "hash": "6ff5e2585cefaf64cd21a6bac796b9181be5a5ba089cfdd69ddadb99",
             "sent": true
         },
         "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
@@ -390,7 +390,7 @@
             "id": "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550",
             "snapshot": "14225541",
             "start": 1645136230,
-            "state": "active",
+            "state": "closed",
             "title": "Buy 2 CryptoBatz and mint 2 MutantBatz."
         },
         "0x3ea164d3193e0032da05129cec78c05cd6b7e337be29b8f9a9def143a343f9c3": {
