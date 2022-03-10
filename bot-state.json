@@ -1,5 +1,5 @@
 {
-    "last_update": 1646921327,
+    "last_update": 1646922048,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -91,6 +91,10 @@
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
             "hash": "eb89a07d0c98bb875d09a0e8725af17e91a6067db08965d850dc79ce",
+            "sent": true
+        },
+        "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d": {
+            "hash": "89e6a05aff37c2166bd1c6cf9f6f637307b9619a685b129fa72ddadd",
             "sent": true
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
@@ -679,6 +683,23 @@
             "start": 1637611200,
             "state": "closed",
             "title": "Proposal: DeadFellaz"
+        },
+        "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "https://discord.com/channels/795861033646030858/852555178150068244/946100479543357460\n\nCertiK had finished auditing NFT Worlds staking & renting contract - https://www.certik.com/projects/nft-worlds\n\n35% of $WRLD are reversed for staking rewards for the next 5 years, with our 4 worlds, we will get anywhere between 116K to 143K $WRLD per year. (Depending on the total amount of worlds staked.)\n\nThis is free money that will go to other staked worlds if we don't stake our's. So let's stake our's!\n",
+            "choices": [
+                "Steak!! Stake 'em now!",
+                "Nah, I don't like free money.",
+                "Abstain."
+            ],
+            "created": 1646921496,
+            "end": 1647180692,
+            "id": "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d",
+            "snapshot": "14359453",
+            "start": 1646921492,
+            "state": "active",
+            "title": "Stake NFT Worlds for $WRLD"
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
             "__typename": "Proposal",
