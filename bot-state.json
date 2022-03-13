@@ -1,5 +1,5 @@
 {
-    "last_update": 1647180092,
+    "last_update": 1647180754,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -94,7 +94,7 @@
             "sent": true
         },
         "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d": {
-            "hash": "89e6a05aff37c2166bd1c6cf9f6f637307b9619a685b129fa72ddadd",
+            "hash": "215bba6c6e58939dd99c6dcc240fce944d92ed0b68fb2fec2243f963",
             "sent": true
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
@@ -698,7 +698,7 @@
             "id": "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d",
             "snapshot": "14359453",
             "start": 1646921492,
-            "state": "active",
+            "state": "closed",
             "title": "Stake NFT Worlds for $WRLD"
         },
         "QmNSm2gXRuYcjGeg9szBS5WHUn6JMqsmFGdHTPDFUUqwRj": {
