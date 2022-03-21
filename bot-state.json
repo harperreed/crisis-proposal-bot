@@ -1,5 +1,5 @@
 {
-    "last_update": 1647839964,
+    "last_update": 1647840563,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -11,6 +11,10 @@
         },
         "0x1bcf24c5851e26d22f8560dbc210279118da1706f97d3ee6c3f46842d44f9df4": {
             "hash": "84baf55d436dd663b65cd33b35aad1ae6d0b2f33f005c3786fc931b3",
+            "sent": true
+        },
+        "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1": {
+            "hash": "3e04747f5a7002fd5f2b206a676af02caad7f0ff8cdedb84eaad86ca",
             "sent": true
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
@@ -349,6 +353,23 @@
             "start": 1644231600,
             "state": "closed",
             "title": "$WRLD is up 100%! Sell 2ETH worth of $WRLD to recover cost and put the rest in single sided LP"
+        },
+        "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1": {
+            "__typename": "Proposal",
+            "author": "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "body": "Based on a previous proposal, the new Teams structure is as follows:\n\n- Research Committee: \nA team of 3-4 people that will explore what is happening in the world of crypto and determine if a working group could be spun up around the subject. For example, a Gaming Working Group would be created around our investment in NFT Worlds and will explore other gaming opportunities for the DAO.\n\n- Membership Team: \nNo change to this team. The purpose of the Membership Team is to explore ways to better onboard members, recruit a diverse group of members, and provide ways to increase participation in the DAO\n\n- Security Team: \nNo change to this team. The purpose of this team is to monitor and support the security of the DAO\n\n- Operations Team: \nNo change to this team. The purpose of this team is to support the operations of the DAO\n\n- Sales Team. \nThis is a new team focused on selling our assets. This team will explore tools, discords, etc to decide when and at how much to sell assets. When appropriate, they can determine a sales strategy prior to acquiring an asset or engaging in other investment activities.\n\nIf this proposal passes, we will immediately disband any other standing team (Charter and Scouting) and recruit for the Research and Sales Teams. We have a few people that have volunteered, and we will verify that they still want to do it.",
+            "choices": [
+                "APPROVED",
+                "DENIED",
+                "ABSTAIN"
+            ],
+            "created": 1647840208,
+            "end": 1648062000,
+            "id": "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1",
+            "snapshot": "14427772",
+            "start": 1647840168,
+            "state": "active",
+            "title": "Restructuring Teams and Working Groups"
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
             "__typename": "Proposal",
