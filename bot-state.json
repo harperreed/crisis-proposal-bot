@@ -1,5 +1,5 @@
 {
-    "last_update": 1648061793,
+    "last_update": 1648062386,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -14,7 +14,7 @@
             "sent": true
         },
         "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1": {
-            "hash": "3e04747f5a7002fd5f2b206a676af02caad7f0ff8cdedb84eaad86ca",
+            "hash": "fb319e1f2c3db5128242fcf2f6de6caf817e957fad276b84f98e8483",
             "sent": true
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
@@ -368,7 +368,7 @@
             "id": "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1",
             "snapshot": "14427772",
             "start": 1647840168,
-            "state": "active",
+            "state": "closed",
             "title": "Restructuring Teams and Working Groups"
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
