@@ -1,5 +1,5 @@
 {
-    "last_update": 1649271548,
+    "last_update": 1649272131,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -74,7 +74,7 @@
             "sent": true
         },
         "0xa7c8ef4d61c01e26c3561e03670baddf81e611aa1032736e6002ad3e240c76ca": {
-            "hash": "a654b1d6a333fcab918098d6aa3278f61b809e6e2d96dc06645895c6",
+            "hash": "b8802b6d8f801cbd735617db86a5a58d5553c0f3cbae5aa993e5cbbb",
             "sent": true
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
@@ -624,7 +624,7 @@
             "id": "0xa7c8ef4d61c01e26c3561e03670baddf81e611aa1032736e6002ad3e240c76ca",
             "snapshot": "14519899",
             "start": 1649080704,
-            "state": "active",
+            "state": "closed",
             "title": "Approval of New Team Members"
         },
         "0xaf65c978c74717acdc02fe22ca0ab52a5b59d63df97f9e6abcd079de4b33b2e1": {
