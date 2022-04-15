@@ -1,5 +1,5 @@
 {
-    "last_update": 1650039147,
+    "last_update": 1650040091,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -35,6 +35,10 @@
         },
         "0x41820bb981f89b213541c33151a79eb41e5a62093a1fa0246b8a0c006b2226d7": {
             "hash": "52df632c0e884c3652d50bbf3e88e8ba54401ed5315fe4031b61ef29",
+            "sent": true
+        },
+        "0x4e33ae45a0d63cabb358eb83226ef087b2df1c8bc701691bfbb986ad15a15d68": {
+            "hash": "e25fc499e53d866ef2fdb424d3579bdbb53eebf4640071628b50a131",
             "sent": true
         },
         "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
@@ -462,6 +466,23 @@
             "start": 1638900000,
             "state": "active",
             "title": "HODL 3 CrypToadz"
+        },
+        "0x4e33ae45a0d63cabb358eb83226ef087b2df1c8bc701691bfbb986ad15a15d68": {
+            "__typename": "Proposal",
+            "author": "0x8eA650D831EAcA6b84360fA9db45F481E0622A1f",
+            "body": "The NFT Worlds \u201cGenesis Avatar\u201d mint is April 30. We are eligible for one per NFT World we hold, four in total.  We propose minting all four.\n\nAdditional information:\n* https://nftworlds.com/avatars\n* https://docs.nftworlds.com/nft-worlds-other/genesis-avatars-mint",
+            "choices": [
+                "Yes, mint four avatars for 1.6\u039e ",
+                "No, we mint fewer/none",
+                "Abstain, prefer others decide"
+            ],
+            "created": 1650039406,
+            "end": 1650298577,
+            "id": "0x4e33ae45a0d63cabb358eb83226ef087b2df1c8bc701691bfbb986ad15a15d68",
+            "snapshot": "14590955",
+            "start": 1650039377,
+            "state": "active",
+            "title": "Mint Four NFT Words Genesis Avatars"
         },
         "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
             "__typename": "Proposal",
