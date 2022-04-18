@@ -1,5 +1,5 @@
 {
-    "last_update": 1650297536,
+    "last_update": 1650298191,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -114,7 +114,7 @@
             "sent": true
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
-            "hash": "cf80de77e339338bb31989b369207ab7618c1ccb607870ec785ae728",
+            "hash": "9d6dfcf380fc55ca13ae067b09b6c7331a4fc7f1e1ed4c34683e4496",
             "sent": true
         },
         "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d": {
@@ -807,7 +807,7 @@
             "id": "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096",
             "snapshot": "14590893",
             "start": 1650038698,
-            "state": "active",
+            "state": "closed",
             "title": "Renewal of ENS Name, crisisdao.eth"
         },
         "0xf9ec35dd90dd805d0189b4bd277c0c7c47e2d7adbcb728a9174e2b247191f03d": {
