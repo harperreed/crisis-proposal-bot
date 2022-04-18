@@ -1,5 +1,5 @@
 {
-    "last_update": 1650298191,
+    "last_update": 1650299064,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -38,7 +38,7 @@
             "sent": true
         },
         "0x4e33ae45a0d63cabb358eb83226ef087b2df1c8bc701691bfbb986ad15a15d68": {
-            "hash": "e25fc499e53d866ef2fdb424d3579bdbb53eebf4640071628b50a131",
+            "hash": "67cff1a91223c6c38e32e9d079712e873039b3deb1953348f0f43910",
             "sent": true
         },
         "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
@@ -485,7 +485,7 @@
             "id": "0x4e33ae45a0d63cabb358eb83226ef087b2df1c8bc701691bfbb986ad15a15d68",
             "snapshot": "14590955",
             "start": 1650039377,
-            "state": "active",
+            "state": "closed",
             "title": "Mint Four NFT Words Genesis Avatars"
         },
         "0x596be11c08e0bc44d28d3ed737b235cb496729ea042f67c8258713c18392020e": {
