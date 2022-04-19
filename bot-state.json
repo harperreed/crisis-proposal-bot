@@ -1,5 +1,5 @@
 {
-    "last_update": 1650392459,
+    "last_update": 1650393343,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -91,6 +91,10 @@
         },
         "0xc320dc662da65c20a24fb190e3305ad941f17f440a49775cb4b89ba9da232225": {
             "hash": "093d7783650dfc7ad9104ffddf0b85f23066f1353b5694de9fd4c3b7",
+            "sent": true
+        },
+        "0xc7b6feb5ce6aca757ea1a87daa4fdbbfc8caf844ccc9a7631a863596a2c88709": {
+            "hash": "eedee45599b621d84adae295fd90faf291696ca2d5f23cc8003bd4df",
             "sent": true
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
@@ -707,6 +711,24 @@
             "start": 1642698000,
             "state": "closed",
             "title": "Buy a doodle or two"
+        },
+        "0xc7b6feb5ce6aca757ea1a87daa4fdbbfc8caf844ccc9a7631a863596a2c88709": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "https://looksrare.org/collections/0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D/4098\n\nSean suggested in scouting we buy another v1 punk. I suggest this cap punk, it's a bargain at 7.7 ETH!",
+            "choices": [
+                "Yes, let's buy it!",
+                "Nah, let's get another one <10E",
+                "Nope. Don't get any more v1punk",
+                "Abstain"
+            ],
+            "created": 1650393265,
+            "end": 1650565980,
+            "id": "0xc7b6feb5ce6aca757ea1a87daa4fdbbfc8caf844ccc9a7631a863596a2c88709",
+            "snapshot": "14617193",
+            "start": 1650393134,
+            "state": "active",
+            "title": "Buy v1 punk 4098"
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
             "__typename": "Proposal",
