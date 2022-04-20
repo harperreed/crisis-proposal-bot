@@ -1,5 +1,5 @@
 {
-    "last_update": 1650466773,
+    "last_update": 1650468226,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -62,7 +62,7 @@
             "sent": true
         },
         "0x8085e077417bab92b90629de3648194f79c3602e2a36f8cbce3840e150deba89": {
-            "hash": "f5ef01c996e93163ebc7964bccfcfbc0b01418da6c43a0a5f7075255",
+            "hash": "d7d0d6660f923d93dffd3bfec0074f85bfc9b45d46fb5df2fa2ee0fd",
             "sent": true
         },
         "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69": {
@@ -589,7 +589,7 @@
             "id": "0x8085e077417bab92b90629de3648194f79c3602e2a36f8cbce3840e150deba89",
             "snapshot": "14603455",
             "start": 1650207827,
-            "state": "active",
+            "state": "closed",
             "title": "Sell half of airdropped tokens"
         },
         "0x811ae29aa1a2a44ff4cc49ac48937332db6d304c9947fbca3ec07d0dd10d8e69": {
