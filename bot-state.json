@@ -1,5 +1,5 @@
 {
-    "last_update": 1650565044,
+    "last_update": 1650566050,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -94,7 +94,7 @@
             "sent": true
         },
         "0xc7b6feb5ce6aca757ea1a87daa4fdbbfc8caf844ccc9a7631a863596a2c88709": {
-            "hash": "eedee45599b621d84adae295fd90faf291696ca2d5f23cc8003bd4df",
+            "hash": "a88a26101bc8df69e21887acf3b75760fce5f0f6a84be4b4d853a8d7",
             "sent": true
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
@@ -727,7 +727,7 @@
             "id": "0xc7b6feb5ce6aca757ea1a87daa4fdbbfc8caf844ccc9a7631a863596a2c88709",
             "snapshot": "14617193",
             "start": 1650393134,
-            "state": "active",
+            "state": "closed",
             "title": "Buy v1 punk 4098"
         },
         "0xcdea9cd49b46c05696ac7e29ae60df52df032407a55cee63d54d5e47d6cf12eb": {
