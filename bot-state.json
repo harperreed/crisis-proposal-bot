@@ -1,5 +1,5 @@
 {
-    "last_update": 1651312104,
+    "last_update": 1651312601,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -15,6 +15,10 @@
         },
         "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1": {
             "hash": "fb319e1f2c3db5128242fcf2f6de6caf817e957fad276b84f98e8483",
+            "sent": true
+        },
+        "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
+            "hash": "46770c72bf4bc231ed1626b166f7481b5f7772b972e1a89c9b3e31c1",
             "sent": true
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
@@ -390,6 +394,23 @@
             "start": 1647840168,
             "state": "closed",
             "title": "Restructuring Teams and Working Groups"
+        },
+        "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "We've already voted YES to minting our 4 Avatars. I'm proposing on 5/2 when they drop the Allow List passes, we try to buy 6 for a max of 1 ETH each.\n\nWL Opensea link: https://opensea.io/collection/nft-worlds-whitelist\n\nWhy? Because NFT World Avatars get 50% of all marketplace fees every month, forever!\n\n4M average daily active players on Fortnite = $5B in annual sales volume for cosmetic items! If they take a 5% fee that's 250M a year. 1/2 of that divided by 15000 Avatars = $8333 each. If we have 10 that's 83K a year. Not that much but still respectable. Don't forget free exclusive item drops too.\n\nThey're seeing 3 - 5 new first-time players joining NFT Worlds per minute: https://twitter.com/iamarkdev/status/1519031752215306240?s=20&t=OSnonWznNBp4_lddUHnruw\n\nwith nearly 40,000 managed player wallets in <30 days since launch: https://twitter.com/nftworldsNFT/status/1518322317121646592?s=20&t=OSnonWznNBp4_lddUHnruw\n\nIf this proposal fail to pass, then we're minting 4. Please send the WL passes and 1.7 ETH to Nick's Metamask: https://etherscan.io/address/0x1293636Cc7725552C601D61B6a02f775Bb56FCE8\n\nIf this passes, then add 6 ETH for buying WL passes, and 0.4 x 6 = 2.4 ETH for minting, so a total of 8.4 ETH on top of the 1.7 ETH from above.\n\nThanks everybody.",
+            "choices": [
+                "Yes, let's get 6 more Avatars",
+                "No, don't get any more Avatars",
+                "Abstain"
+            ],
+            "created": 1651312389,
+            "end": 1651485120,
+            "id": "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4",
+            "snapshot": "14684766",
+            "start": 1651312268,
+            "state": "active",
+            "title": "Buy 6 more NFT Worlds Avatars WL if they're at or under 1ETH"
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
             "__typename": "Proposal",
