@@ -1,5 +1,5 @@
 {
-    "last_update": 1651485011,
+    "last_update": 1651485501,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -18,7 +18,7 @@
             "sent": true
         },
         "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
-            "hash": "46770c72bf4bc231ed1626b166f7481b5f7772b972e1a89c9b3e31c1",
+            "hash": "8e7d94d03fa697c48f31b3a4509c77a4bcb713e1d1c3e5e8b8343dde",
             "sent": true
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
@@ -409,7 +409,7 @@
             "id": "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4",
             "snapshot": "14684766",
             "start": 1651312268,
-            "state": "active",
+            "state": "closed",
             "title": "Buy 6 more NFT Worlds Avatars WL if they're at or under 1ETH"
         },
         "0x2688ef322159c52b19c700f82a18b50acf2bf0cc06b60a12a2ce75486cb6ef9d": {
