@@ -1,5 +1,5 @@
 {
-    "last_update": 1652131495,
+    "last_update": 1652132107,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -119,6 +119,10 @@
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
             "hash": "eb89a07d0c98bb875d09a0e8725af17e91a6067db08965d850dc79ce",
+            "sent": true
+        },
+        "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408": {
+            "hash": "3ad9600236625c193a5eebe943a5609772ea536847a16fab9504d4df",
             "sent": true
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
@@ -835,6 +839,23 @@
             "start": 1637611200,
             "state": "closed",
             "title": "Proposal: DeadFellaz"
+        },
+        "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408": {
+            "__typename": "Proposal",
+            "author": "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "body": "Us being slow to act as a DAO has actually been working out well! We didn't sell Dale, we didn't sell $WRLD and $APE fast enough, and the price went up and up. This time, we didn't buy these Avatars WL and the market crashed! Unrevealed are now down to 0.29 ETH!\n\nhttps://opensea.io/collection/nft-worlds-genesis-avatars\nhttps://looksrare.org/collections/0x05745e72fB8b4a9b51118A168D956760e4a36444\n\nI suggest we spent 5 - 6 ETH to sweep 16 off the floor! So we'll hold 20 Avatars.\n\nWhy buy NFT World Avatars? Because they get 50% of all marketplace fees every month, forever!\n\n4M average daily active players on Fortnite = $5B in annual sales volume for cosmetic items! If they take a 5% fee that's 250M a year. 1/2 of that divided by 15000 Avatars = $8333 each. If we have 10 that's 83K a year. Not that much but still respectable. Don't forget free exclusive item drops too.\n\nThis is an income generating asset and a long term hold.",
+            "choices": [
+                "Yes! Let's get 16!",
+                "No, let's not do it.",
+                "Abstain"
+            ],
+            "created": 1652131733,
+            "end": 1652390787,
+            "id": "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408",
+            "snapshot": "14742460",
+            "start": 1652131587,
+            "state": "active",
+            "title": "Buy a bunch of NFT Worlds Avatars"
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
             "__typename": "Proposal",
