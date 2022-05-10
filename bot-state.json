@@ -1,5 +1,5 @@
 {
-    "last_update": 1652201090,
+    "last_update": 1652201400,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -119,6 +119,10 @@
         },
         "0xebe6b0deee4089f2617a5b98583d9386ab9fcf6204bd99f46b933d09417b6b21": {
             "hash": "eb89a07d0c98bb875d09a0e8725af17e91a6067db08965d850dc79ce",
+            "sent": true
+        },
+        "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408": {
+            "hash": "3ad9600236625c193a5eebe943a5609772ea536847a16fab9504d4df",
             "sent": true
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
