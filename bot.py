@@ -155,7 +155,7 @@ def send_webhook(proposal):
   embed.add_embed_field(name='Created', value=created)
   embed.add_embed_field(name='Start', value=start_date)
   embed.add_embed_field(name='End', value=end_date)
-
+  embed.color = int(embed.color, 16) 
 
   webhook.add_embed(embed)
 
