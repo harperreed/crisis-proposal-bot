@@ -1,5 +1,5 @@
 {
-    "last_update": 1652390730,
+    "last_update": 1655918325,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -122,7 +122,7 @@
             "sent": true
         },
         "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408": {
-            "hash": "3ad9600236625c193a5eebe943a5609772ea536847a16fab9504d4df",
+            "hash": "b88ba683864b2bde7ff2736e80c4b9c9700229e7bc5e6d96e40a83d1",
             "sent": true
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
@@ -854,7 +854,7 @@
             "id": "0xf2947bca306b87ba1e4ea42f444ddaa3e3b7c356d63d51a343293853f1bac408",
             "snapshot": "14742460",
             "start": 1652131587,
-            "state": "active",
+            "state": "closed",
             "title": "Buy a bunch of NFT Worlds Avatars"
         },
         "0xf9936da3dbb4ebaa97f4e25d0bb61bb247019b7be2102efa442aa2a9bb433096": {
