@@ -186,7 +186,7 @@ except:
 if ((int(time.time()-last_update))>300):
   try:
     result = grab_proposals("crisisdao.eth", 5, "all")
-   except:
+  except:
     result = {'proposals': []}
   
   if ('notifications' not in bot_state):
