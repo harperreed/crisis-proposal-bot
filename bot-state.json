@@ -1,5 +1,5 @@
 {
-    "last_update": 1666830912,
+    "last_update": 1666832621,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -15,6 +15,10 @@
         },
         "0x1dd84dd68af798fb9b149a1d22da0eaa8b1d7bd8cc5159b569a38e44c35555d1": {
             "hash": "fb319e1f2c3db5128242fcf2f6de6caf817e957fad276b84f98e8483",
+            "sent": true
+        },
+        "0x20c0cc25ce8cfa14f962b6f1c2e4e5f1ebd2c0247f95a4aacec992173a27a97c": {
+            "hash": "21acabea65e89e4d48755f86d270f7e77f1e5ff2e052655023ab988b",
             "sent": true
         },
         "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
@@ -398,6 +402,22 @@
             "start": 1647840168,
             "state": "closed",
             "title": "Restructuring Teams and Working Groups"
+        },
+        "0x20c0cc25ce8cfa14f962b6f1c2e4e5f1ebd2c0247f95a4aacec992173a27a97c": {
+            "__typename": "Proposal",
+            "author": "0x8b57627F69D2dF512953Fb54Fe3e75142cF531DE",
+            "body": "Proof Collective has pumped out some extraordinary content and value for holders, and with the market so low it seems like a perfect time to buy in. \n\nProof Collective Pass floor is, at time of this writing, 39.39 ETH. We have enough WETH to make an offer of 38 WETH, which would likely be accepted. \n\nFrom member Scott Beale: \n\n\"Proof is planning 10 drops/year for the next two years.\nGrails and some other stuff.\nAlso MB2 of course.\nAn offer of 38 would probably get accepted.\nPS I think it's a great idea as well.\nProof pass also gives access to Proof of Conference.\"\n\nSo, I propose we make an offer of 38 WETH and buy a Proof Collective Pass. ",
+            "choices": [
+                "Yes, buy Proof Pass for 38 WETH",
+                "No, you get nothing. Good day."
+            ],
+            "created": 1666830919,
+            "end": 1667232000,
+            "id": "0x20c0cc25ce8cfa14f962b6f1c2e4e5f1ebd2c0247f95a4aacec992173a27a97c",
+            "snapshot": "15835852",
+            "start": 1666830843,
+            "state": "active",
+            "title": "Buy A Proof Pass"
         },
         "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
             "__typename": "Proposal",
