@@ -1,5 +1,5 @@
 {
-    "last_update": 1667231680,
+    "last_update": 1667232274,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -18,7 +18,7 @@
             "sent": true
         },
         "0x20c0cc25ce8cfa14f962b6f1c2e4e5f1ebd2c0247f95a4aacec992173a27a97c": {
-            "hash": "21acabea65e89e4d48755f86d270f7e77f1e5ff2e052655023ab988b",
+            "hash": "04504fa7b78bc84982ea1b49e74e836df93b4d88bc9f53784a749e88",
             "sent": true
         },
         "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
@@ -416,7 +416,7 @@
             "id": "0x20c0cc25ce8cfa14f962b6f1c2e4e5f1ebd2c0247f95a4aacec992173a27a97c",
             "snapshot": "15835852",
             "start": 1666830843,
-            "state": "active",
+            "state": "closed",
             "title": "Buy A Proof Pass"
         },
         "0x2128c53c14160f2fd029c52a9c55acde0bcd3f8be1cd66a50e743c7058dc59e4": {
