@@ -1,5 +1,5 @@
 {
-    "last_update": 1692714350,
+    "last_update": 1692714863,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -31,6 +31,10 @@
         },
         "0x27f29640475c4be5de325cecef3875f02dfc29a08e5c59f50f3a2b4a6c8ed114": {
             "hash": "b2a51a9b801699c2953e4556516a55aeffe561e81082da2235f423f8",
+            "sent": true
+        },
+        "0x30672aac6d9d7564e9d06909a91cd6efd1327523d7787602b076d4bb0faf5087": {
+            "hash": "67a8fc5dcc9722e6966a7e04ec6d5b0b0c3c9d069cda6429e5640330",
             "sent": true
         },
         "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
@@ -469,6 +473,23 @@
             "start": 1636196400,
             "state": "closed",
             "title": "Wrap 2.8ETH to make an offer on 1 Fortune Magazine's Aspiring Chad NFT"
+        },
+        "0x30672aac6d9d7564e9d06909a91cd6efd1327523d7787602b076d4bb0faf5087": {
+            "__typename": "Proposal",
+            "author": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "body": "Background\nWe feel that the experiment of CrisisDAO v1 is ready to wind down, and we\u2019d like a clean slate to experiment with novel structures in CrisisDAO v2.\n\nGoals\n1. Liquidate all of our assets into ETH.\n2. Cover any outstanding expenses and liabilities held by CrisisDAO.\n3. Pay out members their proportional $CRISIS share in ETH.\n\nActions\nNote: Actions should be interpreted in the context of goals above. This proposal\u2019s primary focus is the first goal.\n\nThis is a new standing mandate which expires November 1, 2023 UTC 00:00:00:\n\n1. FOMOFund wallet is liquidated into the primary CrisisDAO Safe wallet.\n2. All non-ETH assets are authorized to be sold at 10%-below-floor or higher prices.\n3. Simple majority vote can block the sale of any specific set of assets.\nAfter this mandate is expired, operating procedures revert back to our existing charter.\n\nProcesses\nNote: Processes are rough guidelines to set expectation.\n\n- Members of the Security Committee will volunteer their time to prepare and execute transactions at their discretion and availability.\n- Security Committee has discretion whether to attempt to find sales at above-minimum prices, or whether to list assets at the minimum price required by this proposal.\n- Security Committee has discretion regarding which platform to use to sell the assets, and which process to use to do so.\n\nCopy of Proposal: https://hackmd.io/@crisisdao/H1qkzaKtn\n\nShould we adopt and execute this proposal?",
+            "choices": [
+                "Yes",
+                "No",
+                "Abstain"
+            ],
+            "created": 1692714616,
+            "end": 1693540740,
+            "id": "0x30672aac6d9d7564e9d06909a91cd6efd1327523d7787602b076d4bb0faf5087",
+            "snapshot": "17970852",
+            "start": 1692714615,
+            "state": "active",
+            "title": "Winding Down CrisisDAO v1"
         },
         "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
             "__typename": "Proposal",
