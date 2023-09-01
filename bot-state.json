@@ -1,5 +1,5 @@
 {
-    "last_update": 1693540641,
+    "last_update": 1693541258,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -34,7 +34,7 @@
             "sent": true
         },
         "0x30672aac6d9d7564e9d06909a91cd6efd1327523d7787602b076d4bb0faf5087": {
-            "hash": "67a8fc5dcc9722e6966a7e04ec6d5b0b0c3c9d069cda6429e5640330",
+            "hash": "dd3e6a6b1b946f7f0cc6589caabcc87f9c448b99738b97220e8f5b0b",
             "sent": true
         },
         "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
@@ -488,7 +488,7 @@
             "id": "0x30672aac6d9d7564e9d06909a91cd6efd1327523d7787602b076d4bb0faf5087",
             "snapshot": "17970852",
             "start": 1692714615,
-            "state": "active",
+            "state": "closed",
             "title": "Winding Down CrisisDAO v1"
         },
         "0x3608d61ca2edfab22935a16b10621a0fc44b698cca033162a413e1ddb1bf8550": {
