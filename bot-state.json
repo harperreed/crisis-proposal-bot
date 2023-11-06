@@ -1,5 +1,5 @@
 {
-    "last_update": 1699302256,
+    "last_update": 1699302762,
     "notifications": {
         "0x04f636daadc076acac72852350620d653974ffe44b33082d6df05c6b745627c9": {
             "hash": "cfd7e0d20d0675db9926a84a2b09385782963dd3f884d0b7c39e0f6c",
@@ -62,7 +62,7 @@
             "sent": true
         },
         "0x64114b15fab21d9b89f0b2a21bcf39b81a42ec4434185141160e01066592951c": {
-            "hash": "48474bf24af642eb5e6991ff63b0d499ea82dbf406f6dae734399d17",
+            "hash": "089b4af829557e75b80c1939f54c5ff6f4b6b59e0860b5bbb693e547",
             "sent": true
         },
         "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082": {
@@ -609,7 +609,7 @@
             "id": "0x64114b15fab21d9b89f0b2a21bcf39b81a42ec4434185141160e01066592951c",
             "snapshot": "18463865",
             "start": 1698680011,
-            "state": "active",
+            "state": "closed",
             "title": "Changes to Multisig Signers"
         },
         "0x658262374001d8bd05aa0c1638489eb4f581cebc0260ee2c192810d6dce2d082": {
